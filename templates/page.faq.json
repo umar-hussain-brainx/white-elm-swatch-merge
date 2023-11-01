@@ -1,0 +1,383 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "accordion-section-1": {
+      "type": "section-accordions",
+      "blocks": {
+        "accordion_block_1_1": {
+          "type": "text",
+          "settings": {
+            "title": "Is my payment data safe with you?",
+            "text": "<p>All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express, and Discover.<\/p>"
+          }
+        },
+        "accordion_block_1_2": {
+          "type": "text",
+          "settings": {
+            "title": "Do you accept online payments?",
+            "text": "<p>Yes, we accept online payments. All payment processing and vital customer information is quick, easy, and secure.<br\/><\/p><p>Learn more about our store's safe checkout experience (powered by Shopify) <a href=\"https:\/\/www.shopify.com\/legal\/terms#DataProtection\" target=\"_blank\" title=\"https:\/\/www.shopify.com\/legal\/terms#DataProtection\">here<\/a>.<\/p>"
+          }
+        },
+        "accordion_block_1_3": {
+          "type": "text",
+          "settings": {
+            "title": "Where can I learn more about the payment and processing on your store?",
+            "text": "<p>For more insight, you may also want to read Shopify’s Terms of Service <a href=\"https:\/\/www.shopify.com\/legal\/terms\" target=\"_blank\" title=\"https:\/\/www.shopify.com\/legal\/terms\">here<\/a> or Privacy Statement <a href=\"https:\/\/www.shopify.com\/legal\/privacy\" target=\"_blank\" title=\"https:\/\/www.shopify.com\/legal\/privacy\">here<\/a>.<\/p>"
+          }
+        },
+        "accordion_block_1_4": {
+          "type": "text",
+          "settings": {
+            "title": "What forms of payment do you accept?",
+            "text": "<p>We accept payments from major credit card companies like Visa, Mastercard, and American Express.<\/p>"
+          }
+        },
+        "0542dfab-1274-4c9a-a00c-62f71e0c5923": {
+          "type": "text",
+          "settings": {
+            "title": "Oops I forgot to enter my discount code...",
+            "text": "<p>Please make sure you enter your discount code <strong>BEFORE <\/strong>you submit your order.<em>We are not able to apply a discount code after you complete your purchase.<\/em>If you forget to use your code, please save it to use on your next order.<\/p>"
+          }
+        },
+        "65db5437-00ee-482c-93de-acd52c9137c1": {
+          "type": "text",
+          "settings": {
+            "title": "Can I get the sales price after the sale has ended?",
+            "text": "<p><strong>WE DO NOT BACKDATE OR FUTURE DATE OUR SALES.<\/strong><\/p><p>Sales are ONLY valid during the sale dates and hours specified. We cannot offer refunds on past purchases nor can we extend our sale dates if the sale was missed.<\/p><p>Out of stock items are NOT included in sales.<\/p>"
+          }
+        },
+        "4a2c0797-b234-4e32-8a11-d9cb128b20fe": {
+          "type": "text",
+          "settings": {
+            "title": "Can I reuse an Instagram or Facebook code?",
+            "text": "<p>Discounts offered by Facebook and Instagram are NOT associated with White Elm and <strong>CANNOT <\/strong>be applied to another order <strong>under any circumstance<\/strong>. Facebook and Instagram will not reissue their discount codes, so once you use it, <strong>the discount cannot be given again<\/strong>. Returns, cancellations, and exchanges are no exception.<strong>We are not able to offer a replacement discount code.<\/strong><\/p>"
+          }
+        },
+        "279f1eec-8791-480a-b8c4-7ececac4aa45": {
+          "type": "text",
+          "settings": {
+            "title": "My discount code is not working...",
+            "text": "<p>First, check to make sure your discount code was entered correctly and that it is not expired. If there are any special rules for the specific sale, the system may not apply your code until you change your order to be in compliance (ex. Valid for orders $30+). If your code is still not working, please reach out to us for assistance BEFORE placing your order. We are not able to add your discount code after you place an order!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_block_1_1",
+        "accordion_block_1_2",
+        "accordion_block_1_3",
+        "accordion_block_1_4",
+        "0542dfab-1274-4c9a-a00c-62f71e0c5923",
+        "65db5437-00ee-482c-93de-acd52c9137c1",
+        "4a2c0797-b234-4e32-8a11-d9cb128b20fe",
+        "279f1eec-8791-480a-b8c4-7ececac4aa45"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Payments & Safety",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "accordion-section-2": {
+      "type": "section-accordions",
+      "blocks": {
+        "accordion_block_2_0": {
+          "type": "text",
+          "settings": {
+            "title": "How long does it take to get my products?",
+            "text": "<p>Free Shipping \/ Standard Shipping: Orders ship within 1-3 business days unless the item is on pre-order or backorder.<\/p><p>Expedited Shipping: If your order included expedited shipping, we will ship your order the same day if ordered before 11am central time. Orders placed after 11 am central time will be shipped the next business day.<\/p><p>Pre-orders will be shipped when they become available on a first-ordered, first shipped and availability basis.<\/p><p>If you have any special requests regarding your shipping, please contact us at support@shopwhiteelm.com prior to ordering.<\/p>"
+          }
+        },
+        "accordion_block_2_1": {
+          "type": "text",
+          "settings": {
+            "title": "How much does it cost?",
+            "text": "<p>Shipping rates can vary depending on your region and are calculated at checkout.<br\/><br\/>Here are the full details of our <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">Shipping Policy<\/a>.<\/p>"
+          }
+        },
+        "accordion_block_2_2": {
+          "type": "text",
+          "settings": {
+            "title": "Is there free shipping?",
+            "text": "<p>We offer free USPS Ground or UPS Ground shipping on all domestic orders of $100 or more (excluding Alaska & Hawaii). If you require special shipping instructions to your address, please contact us first at support@shopwhiteelm.com, or add your instructions to the \"notes\" section at checkout.  <\/p><p>Alaska & Hawaii orders are charged a flat $10 rate up to $100, and $12 rate for orders $100+.<\/p><p>You can upgrade your shipping at checkout for a faster speed. Carrier rates are calculated at checkout.<\/p><p>International orders are shipped via UPS, USPS Express, or DHL Express and do not qualify for free shipping. Quoted shipping prices DO NOT include duties and customs fees. You must pay that separately.<\/p><h4>How fast do you ship?<\/h4>"
+          }
+        },
+        "accordion_block_2_3": {
+          "type": "text",
+          "settings": {
+            "title": "Do you ship internationally?",
+            "text": "<p>International orders are shipped via UPS, USPS Express or DHL Express. All international rates are quoted SHIPPING COST ONLY at checkout. Duties, fees or taxes will be billed to the customer upon delivery directly by the carrier.<\/p>"
+          }
+        },
+        "accordion_block_2_4": {
+          "type": "text",
+          "settings": {
+            "title": "Do you ship to my area?",
+            "text": "<p>A full list of all of our shipping areas can be found <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">here<\/a>.<br\/><br\/>If your country or region is not mentioned, please feel free to reach out to see if we can work out the details.<\/p>"
+          }
+        },
+        "f1a6012f-8544-4a82-a3a2-d51595abc834": {
+          "type": "text",
+          "settings": {
+            "title": "I inputted the wrong information for my order",
+            "text": "<p>All data entered by a customer for an order is the responsibility of the customer. We are not responsible for incorrect information entered such as name, address, email address, or item ordered. If you have entered the wrong information and need to change it, please contact us <em>before <\/em>your order is shipped at <a href=\"mailto:support@shopwhiteelm.com\">support@shopwhiteelm.com <\/a>as we are unable to change information after your item ships.<\/p>"
+          }
+        },
+        "3fbbd515-c3f8-4361-8bae-97df69f15aa7": {
+          "type": "text",
+          "settings": {
+            "title": "My order is undeliverable.",
+            "text": "<p>Please ensure your address is correct when ordering. All orders are sent to the address provided. If your order is returned to us due to an undeliverable address, we will refund you the price paid once the package is received by us, minus the return postage fees. If you would still like to have the item you ordered, you must place a new order with the correct shipping address.<\/p>"
+          }
+        },
+        "4353a3a4-fccf-4d02-a45f-0a7e8c771786": {
+          "type": "text",
+          "settings": {
+            "title": "My order was lost or stolen.",
+            "text": "<p>Please ensure your order is being shipped to a secure location. <strong>White Elm is not responsible for lost, stolen or damaged packages or contents.<\/strong> If you feel your delivery location may not be secure and you would like to add a signature requirement, please select this option at checkout. An additional fee may apply.<\/p><p>If your package has not tracked in several days, please let us know and we will open an investigation on your behalf.<\/p><p><strong>We strongly recommend that you purchase the White Elm shipping warranty at checkout<\/strong> that will protect you against lost, stolen or damaged packages. If you purchased the warranty and experience a lost, stolen or damaged package, please reach out to us for assistance. If you experience a lost, stolen or damaged package and the shipping warranty is attached to your order, please <strong>DO NOT<\/strong> file a claim with USPS or UPS. Doing so will void your shipping warranty and you will need to seek reimbursement from the carrier. Please reach out to us directly for help.<\/p><p>If you remove the shipping warranty at checkout, you are assuming full responsibility if your package is lost, stolen or damaged. All Priority Mail and UPS Ground shipments come with $100 of insurance. That is the maximum you can be reimbursed through the carrier if you remove the shipping warranty from your order. USPS Ground shipments are not insured.<\/p>"
+          }
+        },
+        "e620f696-43a1-4067-9aa0-f0aefed3ff96": {
+          "type": "text",
+          "settings": {
+            "title": "I paid for expedited shipping and it still came late. What should I do?",
+            "text": "<p>Shipping costs paid to White Elm at checkout are paid directly to the carrier at the time of shipment. If the carrier misses a delivery date, we are not able to return the shipping costs paid unless the carrier refunds them to us. If the carrier misses a delivery date, we will work with the carrier on your behalf to file a claim for reimbursement. If the carrier reimburses the shipping cost to us, that refund will be passed on to you at that time. Expedited shipping delivery dates are <strong>NOT<\/strong> guaranteed.<\/p><p>WHITE ELM IS NOT RESPONSIBLE FOR CARRIER DELAYS.<\/p>"
+          }
+        },
+        "5825fe1b-44e3-41ed-be57-3c5230119206": {
+          "type": "text",
+          "settings": {
+            "title": "My order is high value.",
+            "text": "<p>All orders $250+ will be shipped using signature confirmation automatically.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_block_2_0",
+        "accordion_block_2_1",
+        "accordion_block_2_2",
+        "accordion_block_2_3",
+        "accordion_block_2_4",
+        "f1a6012f-8544-4a82-a3a2-d51595abc834",
+        "3fbbd515-c3f8-4361-8bae-97df69f15aa7",
+        "4353a3a4-fccf-4d02-a45f-0a7e8c771786",
+        "e620f696-43a1-4067-9aa0-f0aefed3ff96",
+        "5825fe1b-44e3-41ed-be57-3c5230119206"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Shipping & Delivery",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "accordion-section-3": {
+      "type": "section-accordions",
+      "blocks": {
+        "accordion_block_3_0": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer warranty for your products?",
+            "text": "<p>All our products are subject to quality control.<br\/><br\/>We warranty our bags for 90 days from date of purchase against workmanship defect or material failure. This warranty is not insurance and does not cover issues such as water damage, damage by a person or animal, failure as a result of improper use, normal wear and tear, color fading due to improper cleaning, dirt, grime and stains, fire damage, or anything unrelated to the quality of workmanship and materials as determined by White Elm. If you have a warranty issue, please send a detailed email with your order number and photos of the defect to support@shopwhiteelm.com.  <strong>We do not honor warranty claims on clearance items.<\/strong><br\/><\/p>"
+          }
+        },
+        "accordion_block_3_1": {
+          "type": "text",
+          "settings": {
+            "title": "My item came defective or damaged.",
+            "text": "<p>If you did not receive the item(s) you ordered, please reach out to us within <strong>3 days<\/strong> of receipt.<\/p><p>If your item(s) were received damaged or defective, please send a photo of the bag with packaging still attached, the packaging it was mailed in and a closeup of the defect \/ damage to support@shopwhiteelm.com within 3 days of receipt.<\/p><p>White Elm is not responsible for items damaged in transit, however we will work with you and the carrier to file a claim for reimbursement. We highly recommend purchasing the Shipping Warranty at checkout. This will protect you against loss in the event of a damaged package.<\/p><p>Please save all packaging as it will be needed to file a claim.<\/p><p>If you received the wrong item due to your order being incorrectly placed, you will need to return the item and reorder the correct item you wish to have.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_block_3_0",
+        "accordion_block_3_1"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Warranty & Repair",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "bd9b6bd5-6ce2-4a79-83dc-538f43451b90": {
+      "type": "section-accordions",
+      "blocks": {
+        "0997f62d-53b3-438f-9506-25f1daab3f1f": {
+          "type": "text",
+          "settings": {
+            "title": "How do I care for my bag?",
+            "text": "<p>Check out our <a href=\"https:\/\/shopwhiteelm.com\/blogs\/news\/care-instructions-how-to-take-care-of-your-bag-and-keep-it-in-the-best-condition\"><span style=\"text-decoration:underline\"><em>blog post<\/em><\/span><\/a> for tips on how to best care for your bag.<\/p>"
+          }
+        },
+        "63183edf-81f1-408c-bc0c-def1df299d5c": {
+          "type": "text",
+          "settings": {
+            "title": "Can I hang my bag from a hook?",
+            "text": "<p>Hanging your bag from a hook, especially when loaded with heavy things, will damage the integrity of the handle and could cause it to crack. We recommend you set the bag down on a table or other clean flat surface when not in use and do not hang it from a hook.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "0997f62d-53b3-438f-9506-25f1daab3f1f",
+        "63183edf-81f1-408c-bc0c-def1df299d5c"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Bag Care",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "789dcc44-e714-4338-b4f0-bf1f289aed85": {
+      "type": "section-accordions",
+      "blocks": {
+        "75143d3c-1d89-45ed-884d-e12784fa8786": {
+          "type": "text",
+          "settings": {
+            "title": "Will the side pocket hold a large Hydroflask?",
+            "text": "<p>The side pockets in the Gemini can hold up to a 64oz water tumbler or 4.75\" in diameter.<\/p><p>The Aquila will comfortably fit a 40oz water tumbler.<\/p><p>The Gemini Mini can fit a 32oz water tumbler.<\/p><p>Find more information about what bottles fit in which bags here by reading our <a href=\"https:\/\/shopwhiteelm.com\/blogs\/news\/what-size-bottles-best-fit-into-white-elm-bag-side-pockets\"><span style=\"text-decoration:underline\"><em>blog post.<\/em><\/span><\/a><\/p>"
+          }
+        },
+        "f4073905-d2cf-485a-90ed-ea2cf516e510": {
+          "type": "text",
+          "settings": {
+            "title": "Will the Gemini and Aquila hold my 17.3\" laptop?",
+            "text": "<p>Both the Gemini & Aquila can accommodate most laptops that have a 17.3\" diagonal screen measurement which equates to about 15\" in length.<\/p><p>The Gemini Mini can hold a laptop up to 13\" in diagonal length or 12\" in horizontal length.<\/p><p><a href=\"https:\/\/shopwhiteelm.com\/blogs\/news\/will-my-laptop-fit\">See our <span style=\"text-decoration:underline\"><em>blog post<\/em><\/span> with more details<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "75143d3c-1d89-45ed-884d-e12784fa8786",
+        "f4073905-d2cf-485a-90ed-ea2cf516e510"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Fit",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "accordion-section-4": {
+      "type": "section-accordions",
+      "blocks": {
+        "accordion_block_4_0": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer refunds?",
+            "text": "<p>All return requests must be initiated within 30 days of receipt of the item. To initiate a return request please use our <a href=\"https:\/\/shopwhiteelm.com\/a\/return\" target=\"_blank\" title=\"WHITE ELM RETURN PORTAL\"><strong>RETURN PORTAL<\/strong><\/a>. Once the return is approved, please package up your item in the original packaging (if available) and ship it back using the return instructions given. Please include your name and order number in the package. Once your return is received, please allow up to 3 business days for a refund.  <\/p><p>Please note: In order to receive a full refund, you must ship the item back within <strong>14 days<\/strong> of return approval and the item(s) must be in the original unused and undamaged condition. If the items have signs of wear, use, or damage, you will be subject to a 50% restocking fee. If the item is returned in a condition that is too damaged to resell in any manner, the return will be refused. Shipping charges, insurance, signature deliveries, and shipping warranties are not refundable.<\/p><p><strong>All clearance\/outlet items are final sale. We do not offer returns, refunds, or warranty clearance or outlet items.<\/strong><\/p><p>Return shipping is the responsibility of the customer. A pre-paid label will be offered with your return and the cost will be deducted from your return.<\/p><p>The cost is:<\/p><ul><li>$4 for packages up to 13oz.<\/li><li>$12 for packages up to 5lbs. and $8 if returning for store credit<\/li><li>If you are returning a package over 5lbs., you must purchase your own label or reach out to us at support@shopwhiteelm.com for a prepaid label (cost will be quoted at the time of request)<\/li><\/ul><p>We are more than happy to schedule a USPS pickup to make the return convenient for you. Please let us know if you'd like this service.<\/p>"
+          }
+        },
+        "accordion_block_4_1": {
+          "type": "text",
+          "settings": {
+            "title": "How do I make an exchange?",
+            "text": "<p>Please use our <a href=\"https:\/\/shopwhiteelm.com\/a\/return\"><strong>return portal <\/strong><\/a>to process an exchange.<\/p>"
+          }
+        },
+        "accordion_block_4_2": {
+          "type": "text",
+          "settings": {
+            "title": "Can I return an outlet or clearance item?",
+            "text": "<p>All clearance and outlet items are final sale. We do not offer returns, refunds, or warranty clearance and outlet items.<\/p>"
+          }
+        },
+        "accordion_block_4_3": {
+          "type": "text",
+          "settings": {
+            "title": "Who pays the shipping costs in the case of a refund when the order doesn't have free shipping?",
+            "text": "<p>When an order does not include free shipping, all shipping costs (including the return shipping) are handled by the customer.<\/p>"
+          }
+        },
+        "accordion_block_4_4": {
+          "type": "text",
+          "settings": {
+            "title": "Who pays the shipping costs in the case of a refund when the order has free shipping?",
+            "text": "<p>When an order includes free shipping, only the cost of the return shipping is handled by the customer.<\/p>"
+          }
+        },
+        "6e92a469-4300-4d0a-b39a-64b152ec8f1a": {
+          "type": "text",
+          "settings": {
+            "title": "How do I cancel my order?",
+            "text": "<p>If you need to cancel your order, please use our <a href=\"https:\/\/shopwhiteelm.com\/a\/return\"><span style=\"text-decoration:underline\"><em>RETURN PORTAL<\/em><\/span><\/a>. The order MUST be cancelled BEFORE it is shipped. Once it is shipped, we can no longer cancel it.<\/p><p>Please note: After repeat cancellations by the same customer, a 20% cancellation charge will apply on the third and all consecutive cancellations. This is due to the nonrefundable transaction costs that we incur for each canceled order.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_block_4_0",
+        "accordion_block_4_1",
+        "accordion_block_4_2",
+        "accordion_block_4_3",
+        "accordion_block_4_4",
+        "6e92a469-4300-4d0a-b39a-64b152ec8f1a"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Returns & Refunds",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "accordion-section-1",
+    "accordion-section-2",
+    "accordion-section-3",
+    "bd9b6bd5-6ce2-4a79-83dc-538f43451b90",
+    "789dcc44-e714-4338-b4f0-bf1f289aed85",
+    "accordion-section-4"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "sections": {
+    "bc90b7af-2620-4578-8133-0ab4357a37ba": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "main": {
+      "type": "cart",
+      "settings": {
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "0325fba7-215d-45a5-844d-ccf3b220771e": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "c3ac33b4-a820-47f1-bbb7-665b397ab9b9": {
+      "type": "section-grid",
+      "blocks": {
+        "template--15084155404403__c3ac33b4-a820-47f1-bbb7-665b397ab9b9-168227579570d7a081-0": {
+          "type": "image",
+          "settings": {
+            "width": "66.66",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "Shop Trending",
+            "text": "Add more info or delete this text",
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "template--15084155404403__c3ac33b4-a820-47f1-bbb7-665b397ab9b9-168227579570d7a081-1": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "Shop Clearance",
+            "text": "Add more info or delete this text",
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "template--15084155404403__c3ac33b4-a820-47f1-bbb7-665b397ab9b9-168227579570d7a081-2": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "Shop <br> Best Sellers",
+            "text": "Add more info or delete this text",
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "template--15084155404403__c3ac33b4-a820-47f1-bbb7-665b397ab9b9-168227579570d7a081-3": {
+          "type": "image",
+          "settings": {
+            "width": "66.66",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "Shop New",
+            "text": "Add more info or delete this text",
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155404403__c3ac33b4-a820-47f1-bbb7-665b397ab9b9-168227579570d7a081-0",
+        "template--15084155404403__c3ac33b4-a820-47f1-bbb7-665b397ab9b9-168227579570d7a081-1",
+        "template--15084155404403__c3ac33b4-a820-47f1-bbb7-665b397ab9b9-168227579570d7a081-2",
+        "template--15084155404403__c3ac33b4-a820-47f1-bbb7-665b397ab9b9-168227579570d7a081-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "350",
+        "heading_size": 100,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "bc90b7af-2620-4578-8133-0ab4357a37ba",
+    "main",
+    "0325fba7-215d-45a5-844d-ccf3b220771e",
+    "c3ac33b4-a820-47f1-bbb7-665b397ab9b9"
+  ]
+}

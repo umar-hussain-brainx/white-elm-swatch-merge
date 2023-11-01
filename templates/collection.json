@@ -1,0 +1,186 @@
+{
+  "sections": {
+    "hero": {
+      "type": "collection-image-with-title",
+      "disabled": true,
+      "settings": {
+        "banner_height": "original-height",
+        "text_position": "middle-center",
+        "show_image": true,
+        "text_color": "text-dark",
+        "overlay_opacity": 10,
+        "bg_color_secondary": false,
+        "banner_image": "shopify:\/\/shop_images\/Summer23Hero.jpg",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "5c555184-2287-461a-8522-da6d6876d3da": {
+      "type": "section-image-with-text",
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "overlay",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/Summer23Hero.jpg",
+        "subheading": "",
+        "title": "<p>OUR NEWEST COLLECTION<\/p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "heading_size": 130,
+        "text_content": "Introducing 3 new colors in ALL styles, Coral, Ice Blue, and our new refreshed Taupe! Luna is now available in Black along with some new functional improvements. Carina is now available in Coffee and Silver. Black Aquila now has two more lining and hardware options. We've added even MORE space for your laptop with longer snaps and introduced our newest product, Strap Pads!",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "section_width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "58b53c87-689b-47cf-a719-eae760933fdc": {
+      "type": "section-video",
+      "disabled": true,
+      "settings": {
+        "video_height": "six-fifty-height",
+        "text_position": "middle-center",
+        "video_link_bg": "",
+        "video_link": "",
+        "image": "shopify:\/\/shop_images\/Summer23Hero.jpg",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "<p>SHOP OUR 2023<\/p><p>SUMMER COLLECTION<\/p>",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "text": "",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--secondary btn--small",
+        "button_size": "btn--small"
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "settings": {
+        "subcollections": [
+
+        ],
+        "limit": 8,
+        "layout": "carousel",
+        "image_source": "collection",
+        "image_aspect_ratio": 0.6,
+        "image_overlay_opacity": 10,
+        "bg_color": "",
+        "text_color": "text-light",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "4b4ac52a-6eff-42ee-be61-b91d85399429": {
+      "type": "section-product",
+      "disabled": true,
+      "blocks": {
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-0": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "show_rating": true,
+            "show_rating_count": false,
+            "padding_bottom": 20
+          }
+        },
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-1": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        },
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-2": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-3": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_width_1": 20,
+            "icon_text_1": "Free shipping",
+            "icon_name_2": "check",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Free Returns",
+            "icon_name_3": "heart",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "1% Donated Annually",
+            "icon_name_4": "clock",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "Feature",
+            "alignment": "center",
+            "bg_color": "#ffffff",
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-0",
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-1",
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-2",
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-3"
+      ],
+      "settings": {
+        "product": "",
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "standard",
+        "hide_product_thumbnails": false,
+        "product_image_aspect_ratio": false,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "show_breadcrumbs": false,
+        "enable_sorting": false,
+        "enable_filters": false,
+        "filters_layout": "open",
+        "show_more": true,
+        "filter_mode": "default",
+        "heading_style": "body",
+        "bg_color": "",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "5c555184-2287-461a-8522-da6d6876d3da",
+    "58b53c87-689b-47cf-a719-eae760933fdc",
+    "subcollections",
+    "4b4ac52a-6eff-42ee-be61-b91d85399429",
+    "main"
+  ]
+}

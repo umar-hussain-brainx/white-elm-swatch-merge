@@ -1,0 +1,260 @@
+{
+  "sections": {
+    "hero": {
+      "type": "collection-image-with-title",
+      "disabled": true,
+      "settings": {
+        "banner_height": "three-fifty-height",
+        "text_position": "middle-center",
+        "show_image": true,
+        "text_color": "text-dark",
+        "overlay_opacity": 10,
+        "bg_color_secondary": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "58b53c87-689b-47cf-a719-eae760933fdc": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "four-fifty-height",
+        "text_position": "middle-center",
+        "video_link_bg": "",
+        "video_link": "",
+        "image": "shopify:\/\/shop_images\/Untitled_design_8.jpg",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "text": "",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--secondary btn--small",
+        "button_size": "btn--small"
+      }
+    },
+    "3c49048e-9166-4c0c-b4ad-7525fb198579": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "maia-cosmetic-bag",
+        "products_layout": "grid",
+        "number_of_products": 48,
+        "text_alignment": "text-left",
+        "title": "MAIA COSMETIC CLUTCH",
+        "heading_size": 185,
+        "text": "<p>Crave even more organization? Grab the Maia cosmetic clutch to keep all of your small things safe and secure. <\/p>",
+        "text_size": 125,
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--primary",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "2",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "973423e7-a6ba-4a28-b212-f0da0b3ff54c": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "wallets",
+        "products_layout": "grid",
+        "number_of_products": 48,
+        "text_alignment": "text-left",
+        "title": "STARLA WALLET",
+        "heading_size": 185,
+        "text": "<p>Made to fit nicely inside your Ara crossbody or inside one of the pockets in your larger White Elm bag!<\/p>",
+        "text_size": 125,
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--primary",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "columns_mobile": "2",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "6f666b14-fbc8-4489-877d-9e2f37974b7f": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "gemini-mini-backpacks",
+        "products_layout": "split-left",
+        "number_of_products": 4,
+        "text_alignment": "text-left",
+        "title": "Gemini Mini Backpack",
+        "heading_size": 185,
+        "text": "<p>It's our most loved Gemini - but smaller!<\/p>",
+        "text_size": 125,
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--primary",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "columns_mobile": "2",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "settings": {
+        "subcollections": [
+
+        ],
+        "limit": 8,
+        "layout": "grid",
+        "image_source": "collection",
+        "image_aspect_ratio": 0.6,
+        "image_overlay_opacity": 10,
+        "bg_color": "",
+        "text_color": "text-light",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "4b4ac52a-6eff-42ee-be61-b91d85399429": {
+      "type": "section-product",
+      "blocks": {
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-0": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "show_rating": true,
+            "show_rating_count": false,
+            "padding_bottom": 20
+          }
+        },
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-1": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        },
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-2": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-3": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_width_1": 20,
+            "icon_text_1": "Free shipping",
+            "icon_name_2": "check",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Free Returns",
+            "icon_name_3": "heart",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "1% Donated Annually",
+            "icon_name_4": "clock",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "Feature",
+            "alignment": "center",
+            "bg_color": "#ffffff",
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-0",
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-1",
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-2",
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "",
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "standard",
+        "hide_product_thumbnails": false,
+        "product_image_aspect_ratio": false,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "main": {
+      "type": "collection",
+      "blocks": {
+        "abe138fa-3c1b-4615-a418-204288d1fcf6": {
+          "type": "promo",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Untitled_design_41_1_d654bf84-3afc-4d0f-8d27-ee89b00e5cfc.png",
+            "position": 8,
+            "width": "auto",
+            "title": "<p>SPRING 20% OFF<\/p>",
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "heading_size": 100,
+            "content": "",
+            "text_size": 140,
+            "text_color": "text-light",
+            "text_position": "left",
+            "layout": "inline",
+            "overlay_opacity": 10,
+            "bg_color": "#d3d3d3",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "abe138fa-3c1b-4615-a418-204288d1fcf6"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_breadcrumbs": true,
+        "enable_sorting": true,
+        "enable_filters": true,
+        "filters_layout": "open",
+        "show_more": true,
+        "filter_mode": "default",
+        "heading_style": "body",
+        "bg_color": "",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "58b53c87-689b-47cf-a719-eae760933fdc",
+    "3c49048e-9166-4c0c-b4ad-7525fb198579",
+    "973423e7-a6ba-4a28-b212-f0da0b3ff54c",
+    "6f666b14-fbc8-4489-877d-9e2f37974b7f",
+    "subcollections",
+    "4b4ac52a-6eff-42ee-be61-b91d85399429",
+    "main"
+  ]
+}

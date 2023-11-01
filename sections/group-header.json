@@ -1,0 +1,42 @@
+{
+  "type": "header",
+  "name": "Header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "settings": {
+        "bg_color": "#f7f7f7",
+        "color": "#545454",
+        "layout": "slider",
+        "padding": 10,
+        "slider_speed": 7,
+        "marquee_speed": 100,
+        "text_size": 100,
+        "message_spacing": 25
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "sticky_header": true,
+        "header_border": true,
+        "logo_not_home": "shopify:\/\/shop_images\/white_elm_logo_black.png",
+        "logo_max_width": 170,
+        "main-menu": "main-menu",
+        "show_images": true,
+        "image_aspect_ratio": 1.5,
+        "menu_alignment": "left",
+        "highlight_item": "Sale",
+        "highlight_item_color": "#d02e2e",
+        "header_transparent": false,
+        "logo": "shopify:\/\/shop_images\/white_elm_logo_white.png",
+        "header_text_color": "white",
+        "header_gradient": false
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "section-slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_74.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BlackSilverGeminiShoulderBag.jpg",
+            "overlay_opacity": 10,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "GET REWARDED",
+            "text": "Earn rewards each time you spend, share, follow or refer friends",
+            "button_1_text": "JOIN WHITE ELM REWARDS",
+            "button_1_link": "https:\/\/shopwhiteelm.com\/pages\/rewards\/#smile-home",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "slide_height": "full-height",
+        "enable_mobile_height": false,
+        "mobile_slide_height": "full-height-mobile",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "wipe",
+        "enable_zoom_animation": true,
+        "heading_size": 120
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "06601812-4379-4688-8998-a58365722eee": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--15119102935155__06601812-4379-4688-8998-a58365722eee-168494887897f96bf3-0": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle-center",
+            "image": "shopify:\/\/shop_images\/2_191c01b9-b764-4f18-a91d-f819bc08eade.png",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "heading_size": 100,
+            "text": "",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--primary btn--small",
+            "button_size": "btn--small"
+          }
+        },
+        "template--15119102935155__06601812-4379-4688-8998-a58365722eee-168494887897f96bf3-1": {
+          "type": "text",
+          "settings": {
+            "text_position": "center",
+            "top_image_width": 100,
+            "text_color": "text-dark",
+            "subheading": "",
+            "title": "HOW TO EARN POINTS",
+            "heading_size": 100,
+            "text": "",
+            "text_size": 100,
+            "button_text": "Learn More",
+            "button_link": "https:\/\/shopwhiteelm.com\/pages\/rewards\/#smile-points-activity-rules",
+            "button_color": "btn--black",
+            "button_style": "btn--primary btn--small",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15119102935155__06601812-4379-4688-8998-a58365722eee-168494887897f96bf3-0",
+        "template--15119102935155__06601812-4379-4688-8998-a58365722eee-168494887897f96bf3-1"
+      ],
+      "settings": {
+        "height": "two-thirds-height",
+        "bg_color": "",
+        "width": "wrapper--full",
+        "add_gutter": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "eb7febc6-bf07-4059-a7fc-e69a464d4e18": {
+      "type": "section-custom-content",
+      "blocks": {
+        "7ac478f0-f195-45d4-ac20-e4437e02cfad": {
+          "type": "text",
+          "settings": {
+            "text_position": "center",
+            "top_image_width": 100,
+            "text_color": "text-dark",
+            "subheading": "",
+            "title": "HOW TO REDEEM POINTS",
+            "heading_size": 100,
+            "text": "",
+            "text_size": 100,
+            "button_text": "Learn More",
+            "button_link": "https:\/\/shopwhiteelm.com\/pages\/rewards\/#smile-points-products",
+            "button_color": "btn--black",
+            "button_style": "btn--primary btn--small",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        },
+        "5ee09e15-36d7-4031-a4df-6a762651a859": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle-center",
+            "image": "shopify:\/\/shop_images\/1_2c3f4ea5-f439-4625-aaa9-4d46423d2c29.png",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "heading_size": 100,
+            "text": "",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--primary btn--small",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "7ac478f0-f195-45d4-ac20-e4437e02cfad",
+        "5ee09e15-36d7-4031-a4df-6a762651a859"
+      ],
+      "settings": {
+        "height": "two-thirds-height",
+        "bg_color": "",
+        "width": "wrapper--full",
+        "add_gutter": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "00ed10f2-fb22-467e-9782-7f5b21b12188": {
+      "type": "section-text",
+      "blocks": {
+        "template--15119102935155__00ed10f2-fb22-467e-9782-7f5b21b12188-168495108997508eb9-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>GIVE $20, GET $20<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        },
+        "template--15119102935155__00ed10f2-fb22-467e-9782-7f5b21b12188-168495108997508eb9-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Refer a friend and get rewarded! Give them $20 towards their first purchase of $125+, and you'll get $20 for yourself once they complete their purchase.<\/p>",
+            "size": 100
+          }
+        },
+        "template--15119102935155__00ed10f2-fb22-467e-9782-7f5b21b12188-168495108997508eb9-3": {
+          "type": "button",
+          "settings": {
+            "button_text": "Read More",
+            "button_link": "https:\/\/shopwhiteelm.com\/pages\/rewards\/#smile-referral-program-details",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15119102935155__00ed10f2-fb22-467e-9782-7f5b21b12188-168495108997508eb9-1",
+        "template--15119102935155__00ed10f2-fb22-467e-9782-7f5b21b12188-168495108997508eb9-2",
+        "template--15119102935155__00ed10f2-fb22-467e-9782-7f5b21b12188-168495108997508eb9-3"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "a61dcfe3-8582-4799-a4e3-147d87f02e50": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "best-sellers",
+        "products_layout": "grid",
+        "number_of_products": 8,
+        "text_alignment": "text-center",
+        "title": "SHOP OUR BEST SELLERS",
+        "heading_size": 125,
+        "text": "",
+        "text_size": 125,
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--primary",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "columns_mobile": "2",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "d46f6cea-1283-4875-9178-a711a59d086a": {
+      "type": "section-text",
+      "blocks": {
+        "template--15119102935155__d46f6cea-1283-4875-9178-a711a59d086a-168495108997508eb9-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>VIEW YOUR POINTS<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        },
+        "template--15119102935155__d46f6cea-1283-4875-9178-a711a59d086a-168495108997508eb9-3": {
+          "type": "button",
+          "settings": {
+            "button_text": "VIEW POINTS",
+            "button_link": "https:\/\/shopwhiteelm.com\/pages\/rewards\/#smile-home",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15119102935155__d46f6cea-1283-4875-9178-a711a59d086a-168495108997508eb9-1",
+        "template--15119102935155__d46f6cea-1283-4875-9178-a711a59d086a-168495108997508eb9-3"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "main",
+    "06601812-4379-4688-8998-a58365722eee",
+    "eb7febc6-bf07-4059-a7fc-e69a464d4e18",
+    "00ed10f2-fb22-467e-9782-7f5b21b12188",
+    "a61dcfe3-8582-4799-a4e3-147d87f02e50",
+    "d46f6cea-1283-4875-9178-a711a59d086a"
+  ]
+}

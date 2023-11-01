@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "hero": {
+      "type": "collection-image-with-title",
+      "disabled": true,
+      "settings": {
+        "banner_height": "three-fifty-height",
+        "text_position": "middle-center",
+        "show_image": true,
+        "text_color": "text-dark",
+        "overlay_opacity": 10,
+        "bg_color_secondary": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "disabled": true,
+      "settings": {
+        "subcollections": [
+          "backpacks-2"
+        ],
+        "limit": 8,
+        "layout": "carousel",
+        "image_source": "collection",
+        "image_aspect_ratio": 0.6,
+        "image_overlay_opacity": 10,
+        "bg_color": "",
+        "text_color": "text-light",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "973423e7-a6ba-4a28-b212-f0da0b3ff54c": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "clearance",
+        "products_layout": "grid",
+        "number_of_products": 48,
+        "text_alignment": "text-center",
+        "title": "WHITE ELM OUTLET",
+        "heading_size": 185,
+        "text": "<p>﻿Nothing beats finding a new bag you love — except for finding it on sale! At White Elm, we’re always looking to the future to release new styles of totes, clutches, and more. As we add more items to our collection, there comes a time when previous styles need to be retired so that we can focus on fresh ideas. When that happens, we add these previous styles to our clearance collection to ensure they find a home with someone who loves them! Check back often to catch your favorite styles here, or browse the rest of our collection to grab new styles before they sell out.<\/p><h6><strong>FINAL SALE ON ALL CLEARANCE \/ OUTLET ITEMS<\/strong><\/h6><p><strong>FOR MORE OUTLET ITEMS, PLEASE CHECK OUT OUR OUTLET INSTAGRAM PAGE <\/strong><a href=\"https:\/\/www.instagram.com\/whiteelmbagsoutlet\/\" title=\"White Elm Bags Outlet\"><strong>@WHITEELMBAGSOUTLET<\/strong><\/a><\/p>",
+        "text_size": 75,
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--primary",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "2",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "6f666b14-fbc8-4489-877d-9e2f37974b7f": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "gemini-mini-backpacks",
+        "products_layout": "grid",
+        "number_of_products": 48,
+        "text_alignment": "text-left",
+        "title": "GEMINI MINI BACKPACK",
+        "heading_size": 185,
+        "text": "<p>It's our most loved Gemini - but smaller!<\/p>",
+        "text_size": 125,
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--primary",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "columns_mobile": "2",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "3c49048e-9166-4c0c-b4ad-7525fb198579": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "luna-drawstring-backpacks",
+        "products_layout": "grid",
+        "number_of_products": 48,
+        "text_alignment": "text-left",
+        "title": "LUNA DRAWSTRINGS",
+        "heading_size": 185,
+        "text": "<p>Compact, versatile, and designed to keep you organized on the go!<\/p>",
+        "text_size": 125,
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--primary",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "columns_mobile": "2",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "4b4ac52a-6eff-42ee-be61-b91d85399429": {
+      "type": "section-product",
+      "blocks": {
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-0": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "show_rating": true,
+            "show_rating_count": false,
+            "padding_bottom": 20
+          }
+        },
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-1": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        },
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-2": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-3": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_width_1": 20,
+            "icon_text_1": "Free shipping",
+            "icon_name_2": "check",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Free Returns",
+            "icon_name_3": "heart",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "1% Donated Annually",
+            "icon_name_4": "clock",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "Feature",
+            "alignment": "center",
+            "bg_color": "#ffffff",
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-0",
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-1",
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-2",
+        "template--15084155437171__4b4ac52a-6eff-42ee-be61-b91d85399429-168045656162c46f6e-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "",
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "standard",
+        "hide_product_thumbnails": false,
+        "product_image_aspect_ratio": false,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "main": {
+      "type": "collection",
+      "disabled": true,
+      "settings": {
+        "show_breadcrumbs": true,
+        "enable_sorting": true,
+        "enable_filters": true,
+        "filters_layout": "open",
+        "show_more": true,
+        "filter_mode": "default",
+        "heading_style": "body",
+        "bg_color": "",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "subcollections",
+    "973423e7-a6ba-4a28-b212-f0da0b3ff54c",
+    "6f666b14-fbc8-4489-877d-9e2f37974b7f",
+    "3c49048e-9166-4c0c-b4ad-7525fb198579",
+    "4b4ac52a-6eff-42ee-be61-b91d85399429",
+    "main"
+  ]
+}

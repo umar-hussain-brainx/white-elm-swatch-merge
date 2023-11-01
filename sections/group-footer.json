@@ -1,0 +1,53 @@
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-block-0": {
+          "type": "link",
+          "settings": {
+            "menu": "footer",
+            "title": ""
+          }
+        },
+        "footer-block-1": {
+          "type": "text",
+          "settings": {
+            "title": "ABOUT US",
+            "footer_text": "<p>White Elm bags blend timeless style, functional design, and enduring quality. From pocket-filled totes to sleek clutch bags, each design caters to the active woman, offering ample space and organization for any occasion, be it work meetings, playdates, or travels.<\/p>"
+          }
+        },
+        "footer-block-2": {
+          "type": "newsletter",
+          "settings": {
+            "title": "NEWSLETTER",
+            "text": "<p>Stay up to date with the new collections, products and exclusive offers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "footer-block-0",
+        "footer-block-1",
+        "footer-block-2"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "show_footer_wave": false,
+        "show_social_links": true,
+        "show_payment_icons": false,
+        "bottom_menu": "",
+        "color_text": "#000000",
+        "color_bg": "#d3d3d3",
+        "color_border": "#ffffff",
+        "show_locale_selector": false,
+        "show_currency_selector": false,
+        "currency_type": "currency"
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

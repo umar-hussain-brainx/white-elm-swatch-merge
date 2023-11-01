@@ -1,0 +1,761 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "show_rating": true,
+            "show_rating_count": false,
+            "padding_bottom": 20
+          }
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 20
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "product_accordions": {
+          "type": "product_accordions",
+          "settings": {
+            "accordion_heading_1": "FEATURES",
+            "accordion_text_1": "<ul><li>Nine pockets: <em>Two elastic pockets, two trimmed pockets, two outside bottle pockets, one zippered pocket, one device sleeve, one zippered luggage sleeve pocket.<\/em><\/li><li>Drawstring closure with magnetic flap<\/li><li>Luggage sleeve on the back that converts to a pocket with a magnetic snap closure when not in use<\/li><li>Adjustable long strap that can convert from a tote strap to a backpack strap<\/li><\/ul>",
+            "accordion_page_1": "",
+            "accordion_heading_2": "SPECIFICATIONS",
+            "accordion_text_2": "<p><strong>Bag Measurements:<\/strong><\/p><ul><li>Length: 14.5\"<\/li><li>Height: 12\"<\/li><li>Depth: 5.75\"<\/li><li>Top Opening: 12\"<\/li><li>Device Sleeve: 9\"<\/li><li>Bottom Panel: 11.75\"<\/li><\/ul><p><strong>Exterior Side Pockets:<\/strong><\/p><ul><li>Fit water bottles, or tumblers up to 3.5\" in diameter<\/li><\/ul><p><strong>Device Size Recommendations:<\/strong><\/p><ul><li>Fit devices up to 13\" measured diagonally, or 11\" tall<\/li><li><a href=\"https:\/\/shopwhiteelm.com\/blogs\/news\/will-my-device-fit-in-the-luna-or-carina\"><em>See if your device fits!<\/em><\/a><\/li><\/ul><p><strong> Strap Measurements:<\/strong><\/p><ul><li>62.5” Adjustable backpack strap <\/li><li><a href=\"https:\/\/shopwhiteelm.com\/collections\/accessories-1\/products\/luna-xl-strap\"><em>See XL straps here!<\/em><\/a><\/li><\/ul>",
+            "accordion_page_2": "",
+            "accordion_heading_3": "",
+            "accordion_text_3": "",
+            "accordion_page_3": "",
+            "accordion_heading_4": "",
+            "accordion_text_4": "",
+            "accordion_page_4": "",
+            "accordion_heading_5": "",
+            "accordion_text_5": "",
+            "accordion_page_5": "",
+            "padding_bottom": 20
+          }
+        },
+        "share-button": {
+          "type": "share-button",
+          "settings": {
+            "text": "Share",
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "inventory_countdown",
+        "form",
+        "description",
+        "product_accordions",
+        "share-button"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": false,
+        "enable_zoom": true,
+        "enable_video_looping": true,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "09879122-5b33-451d-9638-83d2b58f52f5": {
+      "type": "section-custom-content",
+      "blocks": {
+        "ec5fce65-6de6-4346-8219-eeaf18649a3d": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle-center",
+            "image": "shopify:\/\/shop_images\/LUNA_1_ff48a6e7-3ca9-431b-bff1-ef16642731c8.png",
+            "overlay_opacity": 5,
+            "text_color": "text-light",
+            "title": "",
+            "heading_size": 100,
+            "text": "",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        },
+        "template--15121280598131__09879122-5b33-451d-9638-83d2b58f52f5-image-1": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle-center",
+            "image": "shopify:\/\/shop_images\/LUNA_c7a89217-6c1a-40e6-be8b-6632158b1cce.png",
+            "overlay_opacity": 5,
+            "text_color": "text-light",
+            "title": "",
+            "heading_size": 100,
+            "text": "",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "ec5fce65-6de6-4346-8219-eeaf18649a3d",
+        "template--15121280598131__09879122-5b33-451d-9638-83d2b58f52f5-image-1"
+      ],
+      "settings": {
+        "height": "six-fifty-height",
+        "bg_color": "",
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "caf4a700-5375-4f44-a80d-6e083e0e62cc": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-07-31T133732.725.png",
+        "height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
+    "icons": {
+      "type": "section-icons-row",
+      "blocks": {
+        "icon-0": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "Free Shipping",
+            "text": "<p>on all orders over $100<\/p>"
+          }
+        },
+        "icon-1": {
+          "type": "text",
+          "settings": {
+            "icon_name": "heart",
+            "title": "Women Owned",
+            "text": "<p>Designed by women, for women. <\/p>"
+          }
+        },
+        "icon-2": {
+          "type": "text",
+          "settings": {
+            "icon_name": "vegan",
+            "title": "Vegan",
+            "text": "<p>High quality, without the cruelty<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon-0",
+        "icon-1",
+        "icon-2"
+      ],
+      "settings": {
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 30,
+        "heading": "",
+        "subheading": "",
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--secondary btn--small",
+        "button_size": "btn--small",
+        "enable_slider_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "overlapping-images-1": {
+      "type": "section-overlapping-images",
+      "disabled": true,
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "center",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "Our Story, Our Promise",
+        "description": "<p>Use this text to describe a product, promotion, or your company.<\/p>",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--primary btn--small",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "testimonials": {
+      "type": "section-testimonials",
+      "blocks": {
+        "testimonial-block-text": {
+          "type": "text",
+          "settings": {
+            "heading": "We let our reviews speak for themselves.",
+            "text_size": 125,
+            "subheading": "<p>4.98 average<br>213 reviews<\/p>",
+            "block_color": "#000000",
+            "text_color": "text-light",
+            "text_alignment": "text-left"
+          }
+        },
+        "testimonial-block-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>Excellent customer service. I love their products!<\/p>",
+            "customer_name": "John Edmonson",
+            "subheading": "<p>Loyal Customer<\/p>"
+          }
+        },
+        "testimonial-block-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>Excellent customer service. I love their products!<\/p>",
+            "customer_name": "John Edmonson",
+            "subheading": "<p>Loyal Customer<\/p>"
+          }
+        },
+        "testimonial-block-2": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>Excellent customer service. I love their products!<\/p>",
+            "customer_name": "John Edmonson",
+            "subheading": "<p>Loyal Customer<\/p>"
+          }
+        },
+        "testimonial-block-3": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>Excellent customer service. I love their products!<\/p>",
+            "customer_name": "John Edmonson",
+            "subheading": "<p>Loyal Customer<\/p>"
+          }
+        },
+        "testimonial-block-4": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>Excellent customer service. I love their products!<\/p>",
+            "customer_name": "John Edmonson",
+            "subheading": "<p>Loyal Customer<\/p>"
+          }
+        },
+        "testimonial-block-5": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>Excellent customer service. I love their products!<\/p>",
+            "customer_name": "John Edmonson",
+            "subheading": "<p>Loyal Customer<\/p>"
+          }
+        },
+        "testimonial-block-6": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>Excellent customer service. I love their products!<\/p>",
+            "customer_name": "John Edmonson",
+            "subheading": "<p>Loyal Customer<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-block-text",
+        "testimonial-block-0",
+        "testimonial-block-1",
+        "testimonial-block-2",
+        "testimonial-block-3",
+        "testimonial-block-4",
+        "testimonial-block-5",
+        "testimonial-block-6"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Testimonials",
+        "text_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "testimonial_block_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-0": {
+          "type": "text",
+          "settings": {
+            "title": "Heading",
+            "text": "<p>Use this text block to discuss some commonly asked questions like shipping and returns, sizing, warranties, or product and company details.<\/p>"
+          }
+        },
+        "acordion-1": {
+          "type": "text",
+          "settings": {
+            "title": "Heading",
+            "text": "<p>Use this text block to discuss some commonly asked questions like shipping and returns, sizing, warranties, or product and company details.<\/p>"
+          }
+        },
+        "acordion-2": {
+          "type": "text",
+          "settings": {
+            "title": "Heading",
+            "text": "<p>Use this text block to discuss some commonly asked questions like shipping and returns, sizing, warranties, or product and company details.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-0",
+        "acordion-1",
+        "acordion-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "limit": 4,
+        "product_recommendations_heading": "You May Also Like",
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "b4f05453-dcd6-45ce-8777-047b05533c8c": {
+      "type": "section-image-accordions",
+      "blocks": {
+        "template--15089815552115__b4f05453-dcd6-45ce-8777-047b05533c8c-16833393840af3b2f5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/luna_ugc3.png",
+            "overlay_opacity": 10,
+            "text_width": "full",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "In Real Life",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--15089815552115__b4f05453-dcd6-45ce-8777-047b05533c8c-16833393840af3b2f5-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/luna_ugc1.png",
+            "overlay_opacity": 10,
+            "text_width": "full",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--15089815552115__b4f05453-dcd6-45ce-8777-047b05533c8c-16833393840af3b2f5-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/carinaandluna.jpg",
+            "overlay_opacity": 10,
+            "text_width": "full",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--15089815552115__b4f05453-dcd6-45ce-8777-047b05533c8c-16833393840af3b2f5-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/luna_ugc2.png",
+            "overlay_opacity": 10,
+            "text_width": "full",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15089815552115__b4f05453-dcd6-45ce-8777-047b05533c8c-16833393840af3b2f5-0",
+        "template--15089815552115__b4f05453-dcd6-45ce-8777-047b05533c8c-16833393840af3b2f5-1",
+        "template--15089815552115__b4f05453-dcd6-45ce-8777-047b05533c8c-16833393840af3b2f5-2",
+        "template--15089815552115__b4f05453-dcd6-45ce-8777-047b05533c8c-16833393840af3b2f5-3"
+      ],
+      "settings": {
+        "accordion_height": "two-thirds-height",
+        "enable_mobile_height": true,
+        "mobile_section_height": "one-fifth-height-mobile",
+        "heading_size": 100,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16804566823209368c": {
+      "type": "apps",
+      "blocks": {
+        "1c4c6188-c1ba-4f2d-9c84-c4632d684a04": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+            "maxwidth": 1080
+          }
+        },
+        "983451bc-23e8-440d-b6b6-66cd26f77c42": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1c4c6188-c1ba-4f2d-9c84-c4632d684a04",
+        "983451bc-23e8-440d-b6b6-66cd26f77c42"
+      ],
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "d47bb48e-bce0-4492-bcbc-02a0092edc8f": {
+      "type": "section-banner-text-columns",
+      "blocks": {
+        "template--15089815552115__d47bb48e-bce0-4492-bcbc-02a0092edc8f-1682276088c19fa5d2-0": {
+          "type": "column",
+          "settings": {
+            "overlay_opacity": 10,
+            "subheading": "Add a subheading",
+            "heading": "Add a heading",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn More",
+            "button_link": ""
+          }
+        },
+        "template--15089815552115__d47bb48e-bce0-4492-bcbc-02a0092edc8f-1682276088c19fa5d2-1": {
+          "type": "column",
+          "settings": {
+            "overlay_opacity": 10,
+            "subheading": "Add a subheading",
+            "heading": "Add a heading",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn More",
+            "button_link": ""
+          }
+        },
+        "template--15089815552115__d47bb48e-bce0-4492-bcbc-02a0092edc8f-1682276088c19fa5d2-2": {
+          "type": "column",
+          "settings": {
+            "overlay_opacity": 10,
+            "subheading": "Add a subheading",
+            "heading": "Add a heading",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn More",
+            "button_link": ""
+          }
+        },
+        "template--15089815552115__d47bb48e-bce0-4492-bcbc-02a0092edc8f-1682276088c19fa5d2-3": {
+          "type": "column",
+          "settings": {
+            "overlay_opacity": 10,
+            "subheading": "Add a subheading",
+            "heading": "Add a heading",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "Learn More",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15089815552115__d47bb48e-bce0-4492-bcbc-02a0092edc8f-1682276088c19fa5d2-0",
+        "template--15089815552115__d47bb48e-bce0-4492-bcbc-02a0092edc8f-1682276088c19fa5d2-1",
+        "template--15089815552115__d47bb48e-bce0-4492-bcbc-02a0092edc8f-1682276088c19fa5d2-2",
+        "template--15089815552115__d47bb48e-bce0-4492-bcbc-02a0092edc8f-1682276088c19fa5d2-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "six-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_section_height": "five-fifty-height-mobile",
+        "text_color": "text-light",
+        "button_color": "btn--white",
+        "button_style": "btn--text",
+        "button_size": "btn--small",
+        "show_single_image": false,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "a7350d76-6864-484f-ac70-2d43575a4419": {
+      "type": "section-image-with-text",
+      "disabled": true,
+      "settings": {
+        "section_height": "three-fifty-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "subheading": "",
+        "title": "<p>Everything's on sale<\/p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "heading_size": 130,
+        "text_content": "Share details about a promotion, welcome customers, describe a product, or talk about your brand.",
+        "text_alignment": "left",
+        "button_text": "Button text",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--primary btn--small",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "section_width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "be9396a5-fd70-46c0-bdf6-e144e67d7b8a": {
+      "type": "section-promotion-row",
+      "blocks": {
+        "template--15089815552115__be9396a5-fd70-46c0-bdf6-e144e67d7b8a-16833387855d719f9d-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WebhighRes_WELifestyle_220217_088.jpg",
+            "subheading": "",
+            "subheading_size": 90,
+            "heading": "<p>The Gemini Backpack<\/p>",
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "heading_size": 170,
+            "description": "",
+            "description_size": 100,
+            "disclaimer": "",
+            "disclaimer_size": 75,
+            "button_text": "Get Organized",
+            "button_link": "https:\/\/shopwhiteelm.com\/collections\/backpacks#FeaturedCollection--template--15120162324595__973423e7-a6ba-4a28-b212-f0da0b3ff54c",
+            "button_color": "btn--white",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "bg_color": "",
+            "gradient_background": "",
+            "text_color": "#ffffff",
+            "overlay_opacity": 0
+          }
+        },
+        "template--15089815552115__be9396a5-fd70-46c0-bdf6-e144e67d7b8a-16833387855d719f9d-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_ITEMS_7.png",
+            "subheading": "",
+            "subheading_size": 80,
+            "heading": "<p>The Ara Crossbody<\/p>",
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "heading_size": 170,
+            "description": "",
+            "description_size": 85,
+            "disclaimer": "",
+            "disclaimer_size": 75,
+            "button_text": "Shop Now",
+            "button_link": "https:\/\/shopwhiteelm.com\/collections\/handbags",
+            "button_color": "btn--white",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "bg_color": "",
+            "gradient_background": "",
+            "text_color": "#ffffff",
+            "overlay_opacity": 0
+          }
+        },
+        "template--15089815552115__be9396a5-fd70-46c0-bdf6-e144e67d7b8a-16833387855d719f9d-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_64.png",
+            "subheading": "",
+            "subheading_size": 100,
+            "heading": "<p>The Aquila Tote<\/p>",
+            "heading_highlight_type": "stroke",
+            "highlight_color": "#d43747",
+            "heading_size": 170,
+            "description": "",
+            "description_size": 100,
+            "disclaimer": "",
+            "disclaimer_size": 75,
+            "button_text": "Pack Everything",
+            "button_link": "https:\/\/shopwhiteelm.com\/collections\/totes#FeaturedCollection--template--15120162455667__3c49048e-9166-4c0c-b4ad-7525fb198579",
+            "button_color": "btn--white",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "bg_color": "#c9c0d4",
+            "gradient_background": "",
+            "text_color": "#ffffff",
+            "overlay_opacity": 0
+          }
+        },
+        "ed87d3b1-35ca-40b4-9206-6c1ad132ded2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "subheading": "",
+            "subheading_size": 100,
+            "heading": "<p>50% OFF<\/p>",
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "heading_size": 280,
+            "description": "Share details about the promotion",
+            "description_size": 100,
+            "disclaimer": "",
+            "disclaimer_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--primary btn--small",
+            "button_size": "btn--small",
+            "bg_color": "",
+            "gradient_background": "",
+            "text_color": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--15089815552115__be9396a5-fd70-46c0-bdf6-e144e67d7b8a-16833387855d719f9d-0",
+        "template--15089815552115__be9396a5-fd70-46c0-bdf6-e144e67d7b8a-16833387855d719f9d-1",
+        "template--15089815552115__be9396a5-fd70-46c0-bdf6-e144e67d7b8a-16833387855d719f9d-2",
+        "ed87d3b1-35ca-40b4-9206-6c1ad132ded2"
+      ],
+      "settings": {
+        "layout": "none",
+        "height": "250",
+        "bg_color": "",
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "09879122-5b33-451d-9638-83d2b58f52f5",
+    "caf4a700-5375-4f44-a80d-6e083e0e62cc",
+    "icons",
+    "overlapping-images-1",
+    "testimonials",
+    "tabs",
+    "related",
+    "b4f05453-dcd6-45ce-8777-047b05533c8c",
+    "16804566823209368c",
+    "d47bb48e-bce0-4492-bcbc-02a0092edc8f",
+    "a7350d76-6864-484f-ac70-2d43575a4419",
+    "be9396a5-fd70-46c0-bdf6-e144e67d7b8a"
+  ]
+}

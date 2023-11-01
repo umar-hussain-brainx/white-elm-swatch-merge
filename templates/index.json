@@ -1,0 +1,1301 @@
+{
+  "sections": {
+    "section-slideshow": {
+      "type": "section-slideshow",
+      "blocks": {
+        "463b804b-21ee-47d0-8e0f-0799f98c1685": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SeptemberHeroWhiteElm.png",
+            "image_mobile": "shopify:\/\/shop_images\/AlmondGeminiMiniHero_c30a520d-b283-47cc-b7bb-1fdc4c92a6a5.jpg",
+            "overlay_opacity": 10,
+            "text_width": "narrow",
+            "text_position": "right",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "ELEVATE YOUR EVERYDAY",
+            "text": "LUXE WORK & TRAVEL BAGS\nFOR THE MODERN WOMAN",
+            "button_1_text": "SHOP",
+            "button_1_link": "shopify:\/\/collections\/bags-1",
+            "button_1_color": "btn--black",
+            "button_1_style": "btn--solid",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        },
+        "a54376fa-aa56-46ae-8dd4-96afbb6083e1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhiteElmHeroSummer2023_9b2fbce3-e55d-448c-bae1-77e94b6bef2f.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/WhiteElmHeroMobileSummer2023.jpg",
+            "overlay_opacity": 5,
+            "text_width": "normal",
+            "text_position": "right",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "ELEVATE YOUR WORK DAY",
+            "text": "OUR NEWEST COLLECTION IS NOW AVAILABLE",
+            "button_1_text": "SEE WHAT'S NEW",
+            "button_1_link": "shopify:\/\/collections\/summer-2023-collection",
+            "button_1_color": "btn--black",
+            "button_1_style": "btn--solid",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small",
+            "video_text": "",
+            "video_link": ""
+          }
+        },
+        "7874db53-9a50-4a3f-90dc-3adc0f1d14c2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cover_Photo_Website_Header.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_17.png",
+            "overlay_opacity": 0,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        },
+        "693b769a-7d52-4efe-a817-97071ad196a1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Black_Friday.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_-_2023-10-30T202947.673.png",
+            "overlay_opacity": 0,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "463b804b-21ee-47d0-8e0f-0799f98c1685",
+        "a54376fa-aa56-46ae-8dd4-96afbb6083e1",
+        "7874db53-9a50-4a3f-90dc-3adc0f1d14c2",
+        "693b769a-7d52-4efe-a817-97071ad196a1"
+      ],
+      "settings": {
+        "slide_height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_slide_height": "two-thirds-height-mobile",
+        "show_nav_dots": false,
+        "show_nav_arrows": false,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "slide",
+        "enable_zoom_animation": true,
+        "heading_size": 120
+      }
+    },
+    "section-marquee": {
+      "type": "section-marquee",
+      "blocks": {
+        "section-marquee-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>BUY NOW & PAY LATER   <\/strong>  Checkout with AfterPay, Shop Pay or Sezzle<\/p>",
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 20,
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "section-marquee-0": {
+          "type": "message",
+          "settings": {
+            "message": "Free shipping in the US on orders $100+",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "section-marquee-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>New collections just released - <a href=\"\/collections\" title=\"All collections\">Shop now<\/a><\/p>",
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 20,
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "section-marquee-2",
+        "section-marquee-0",
+        "section-marquee-1"
+      ],
+      "settings": {
+        "layout": "slider",
+        "padding": 20,
+        "bg_color": "#000000",
+        "color": "#ffffff",
+        "marquee_speed": 100,
+        "slider_speed": 7,
+        "text_size": 160,
+        "message_spacing": 25,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "e7279cd7-fbde-41ec-8496-e4a85e7be919": {
+      "type": "section-custom-content",
+      "blocks": {
+        "76fbd9de-535c-4f84-ad1a-11ec6d6cfc09": {
+          "type": "video",
+          "settings": {
+            "text_position": "middle-center",
+            "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5a31dc2224ff497cb9ccaad37e15bf18.mp4",
+            "video_link": "",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "heading_size": 100,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        },
+        "template--15120161898611__e7279cd7-fbde-41ec-8496-e4a85e7be919-text-1": {
+          "type": "text",
+          "settings": {
+            "text_position": "center",
+            "top_image_width": 100,
+            "text_color": "text-dark",
+            "subheading": "",
+            "title": "PACK LIKE A PRO",
+            "heading_size": 100,
+            "text": "<p>White Elm bags are designed for busy days, offering organized storage with laptop sleeves, zippered pockets, and more. Stay efficient and stylish with everything at your fingertips.<\/p>",
+            "text_size": 100,
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/bags-1",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "76fbd9de-535c-4f84-ad1a-11ec6d6cfc09",
+        "template--15120161898611__e7279cd7-fbde-41ec-8496-e4a85e7be919-text-1"
+      ],
+      "settings": {
+        "height": "one-fifth-height",
+        "bg_color": "#f3f2f4",
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "15df7d44-56a1-4b78-a2c5-6a7a86809161": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--15120161898611__15df7d44-56a1-4b78-a2c5-6a7a86809161-text-1": {
+          "type": "text",
+          "settings": {
+            "text_position": "center",
+            "top_image_width": 100,
+            "text_color": "text-dark",
+            "subheading": "",
+            "title": "TRAVEL IN STYLE",
+            "heading_size": 100,
+            "text": "<p>White Elm backpacks and totes have a convertible luggage sleeve that turns into a pocket with a simple zip. Choose the size and style that suits your travel needs today!<\/p>",
+            "text_size": 100,
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/bags-1",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        },
+        "b906e3e5-3a63-4e2a-ad67-3d658c9f5c43": {
+          "type": "video",
+          "settings": {
+            "text_position": "middle-center",
+            "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/9778a39276eb4e71829a87519daa1b8a.mp4",
+            "video_link": "",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "heading_size": 100,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15120161898611__15df7d44-56a1-4b78-a2c5-6a7a86809161-text-1",
+        "b906e3e5-3a63-4e2a-ad67-3d658c9f5c43"
+      ],
+      "settings": {
+        "height": "one-fifth-height",
+        "bg_color": "",
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "edfe170e-e2e1-41d0-9538-bb8e8b541e5e": {
+      "type": "section-custom-content",
+      "blocks": {
+        "e6f90992-b034-465a-be58-4e69fee875d3": {
+          "type": "video",
+          "settings": {
+            "text_position": "middle-center",
+            "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b1acc956aa0a4312bcb065fbfdd1530f.mp4",
+            "video_link": "",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "heading_size": 100,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        },
+        "template--15120161898611__edfe170e-e2e1-41d0-9538-bb8e8b541e5e-text-1": {
+          "type": "text",
+          "settings": {
+            "text_position": "center",
+            "top_image_width": 100,
+            "text_color": "text-dark",
+            "subheading": "",
+            "title": "ULTIMATE VERSATILITY",
+            "heading_size": 100,
+            "text": "<p>With a multitude of wearing options, White Elm bags effortlessly adapt to fit any aspect of your busy lifestyle. Our bags offer maximum versatility in each design, ensuring you can transition seamlessly from work to play, all in one chic accessory.<\/p>",
+            "text_size": 100,
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/bags-1",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "e6f90992-b034-465a-be58-4e69fee875d3",
+        "template--15120161898611__edfe170e-e2e1-41d0-9538-bb8e8b541e5e-text-1"
+      ],
+      "settings": {
+        "height": "one-fifth-height",
+        "bg_color": "#f3f2f4",
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "9d647877-378b-4623-842d-76a474acd2c4": {
+      "type": "section-overlapping-images",
+      "disabled": true,
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "center",
+        "images_width": 750,
+        "images_offset": 65,
+        "image_1": "shopify:\/\/shop_images\/PackLikeProWhiteElmBag_2.jpg",
+        "image_link_1": "",
+        "image_2": "shopify:\/\/shop_images\/PackLikeProWhiteElmBags_1.jpg",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "PACK LIKE A PRO",
+        "description": "<p>White Elm bags are designed for busy days, offering organized storage with laptop sleeves, zippered pockets, and more. Stay efficient and stylish with everything at your fingertips.<\/p>",
+        "heading_size": 100,
+        "button_text": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/bags-1",
+        "button_color": "btn--black",
+        "button_style": "btn--primary btn--small",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "479cc4ce-a9a4-42d1-a733-c5a097b52947": {
+      "type": "section-overlapping-images",
+      "disabled": true,
+      "settings": {
+        "text_position": "right",
+        "text_alignment": "center",
+        "images_width": 750,
+        "images_offset": 65,
+        "image_1": "shopify:\/\/shop_images\/Untitled_design_1_b0cb4043-2bf2-47d9-9eb3-148b9a53fc3b.jpg",
+        "image_link_1": "",
+        "image_2": "shopify:\/\/shop_images\/Untitled_design_cb23a0c9-710b-445e-b3d7-b028fec56b77.jpg",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "TRAVEL IN STYLE",
+        "description": "<p>On the back of every backpack and tote White Elm offers, there is a luggage sleeve that converts into a pocket all by simply zipping the bottom. Find the size and style that best fits your travel needs now!<\/p>",
+        "heading_size": 100,
+        "button_text": "Shop Now",
+        "button_link": "shopify:\/\/collections\/bags-1",
+        "button_color": "btn--black",
+        "button_style": "btn--primary btn--small",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "2f74d381-e7d1-41e3-ad32-574f86c27588": {
+      "type": "section-overlapping-images",
+      "disabled": true,
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "center",
+        "images_width": 750,
+        "images_offset": 65,
+        "image_1": "shopify:\/\/shop_images\/Untitled_design_2_d69c69a4-0e46-4427-90f1-8ca4b541a842.jpg",
+        "image_link_1": "",
+        "image_2": "shopify:\/\/shop_images\/Untitled_design_3_8ac23a88-d5a3-43c0-befb-94b3fdb45d29.jpg",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "ULTIMATE VERSATILITY",
+        "description": "<p>Discover the limitless possibilities of how our bags can serve you. With different ways to wear, styles to choose from, and accessories to complete your collection: White Elm has the ultimate versatility you need.<\/p>",
+        "heading_size": 100,
+        "button_text": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/bags-1",
+        "button_color": "btn--black",
+        "button_style": "btn--primary btn--small",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "1c4dbd89-4f1d-4459-a3c0-8123d76a606b": {
+      "type": "section-list-collection",
+      "blocks": {
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "totes-2",
+            "bg_color": "",
+            "text_color": "text-light",
+            "overlay_opacity": 0
+          }
+        },
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "backpacks-2",
+            "bg_color": "",
+            "text_color": "text-light",
+            "overlay_opacity": 0
+          }
+        },
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "gemini-mini-backpacks",
+            "bg_color": "",
+            "text_color": "text-light",
+            "overlay_opacity": 0
+          }
+        },
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "carina-totes",
+            "bg_color": "",
+            "text_color": "text-light",
+            "overlay_opacity": 0
+          }
+        },
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "luna-drawstring-backpacks",
+            "bg_color": "",
+            "text_color": "text-light",
+            "overlay_opacity": 0
+          }
+        },
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "wallets",
+            "bg_color": "",
+            "text_color": "text-light",
+            "overlay_opacity": 0
+          }
+        },
+        "1f7bc732-bea2-44d4-a175-8c384afc6d70": {
+          "type": "collection",
+          "settings": {
+            "collection": "handbags2",
+            "bg_color": "",
+            "text_color": "text-light",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-1",
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-2",
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-4",
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-3",
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-0",
+        "template--15084155502707__1c4dbd89-4f1d-4459-a3c0-8123d76a606b-16799432838ab33bf4-5",
+        "1f7bc732-bea2-44d4-a175-8c384afc6d70"
+      ],
+      "settings": {
+        "layout": "carousel",
+        "alignment": "center",
+        "image_shape": "circle",
+        "image_width": 200,
+        "image_height": 100,
+        "title": "SHOP BY STYLE",
+        "heading_size": 100,
+        "text_size": 100,
+        "overlay_text": false,
+        "layout_mobile": "carousel",
+        "image_width_mobile": 150,
+        "image_height_mobile": 100,
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "82a7be64-05d2-4ff7-938a-11e7c3021c89": {
+      "type": "section-image-accordions",
+      "blocks": {
+        "template--15084155502707__82a7be64-05d2-4ff7-938a-11e7c3021c89-167994398605a52d1c-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhiteElmAlmondGemini_3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/WhiteElmAlmondGemini_3.jpg",
+            "overlay_opacity": 10,
+            "text_width": "full",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--15084155502707__82a7be64-05d2-4ff7-938a-11e7c3021c89-167994398605a52d1c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/White_Elm_Outdoor_Web-32_0a116518-787f-40af-bca6-7c84ec9ffa11.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/White_Elm_Outdoor_Web-32_0a116518-787f-40af-bca6-7c84ec9ffa11.jpg",
+            "overlay_opacity": 10,
+            "text_width": "full",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--15084155502707__82a7be64-05d2-4ff7-938a-11e7c3021c89-167994398605a52d1c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/White-Elm-Outdoor-Web-28.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/WhiteElmLavenderCarina_1.jpg",
+            "overlay_opacity": 10,
+            "text_width": "narrow",
+            "text_position": "center",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "a1970782-77e0-4ce3-9166-f4228f336116": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/White_Elm_Outdoor_Web-64_b55426af-aa1a-446b-a6eb-fae2f60ffd5b.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/White_Elm_Outdoor_Web-64_b55426af-aa1a-446b-a6eb-fae2f60ffd5b.jpg",
+            "overlay_opacity": 10,
+            "text_width": "full",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155502707__82a7be64-05d2-4ff7-938a-11e7c3021c89-167994398605a52d1c-2",
+        "template--15084155502707__82a7be64-05d2-4ff7-938a-11e7c3021c89-167994398605a52d1c-1",
+        "template--15084155502707__82a7be64-05d2-4ff7-938a-11e7c3021c89-167994398605a52d1c-0",
+        "a1970782-77e0-4ce3-9166-f4228f336116"
+      ],
+      "settings": {
+        "accordion_height": "two-thirds-height",
+        "enable_mobile_height": true,
+        "mobile_section_height": "one-third-height-mobile",
+        "heading_size": 100,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "168261760302ee83dc": {
+      "type": "apps",
+      "blocks": {
+        "9caa0db1-2da3-419e-b79c-80617fd4a8cc": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "18f78276-0fe4-4523-964e-4f326f4b92f6": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        },
+        "837adf77-9106-4fa9-bf0f-edd54d8ee2e7": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "2fee2b2c-a327-4084-a0c9-fd8660964b01": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "9caa0db1-2da3-419e-b79c-80617fd4a8cc",
+        "18f78276-0fe4-4523-964e-4f326f4b92f6",
+        "837adf77-9106-4fa9-bf0f-edd54d8ee2e7",
+        "2fee2b2c-a327-4084-a0c9-fd8660964b01"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "342389e8-d2e0-46cd-b7dc-68915e0b5d05": {
+      "type": "section-testimonials",
+      "blocks": {
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-0": {
+          "type": "text",
+          "settings": {
+            "heading": "We let our reviews speak for themselves.",
+            "text_size": 125,
+            "subheading": "<p>4.98 average<br\/>2160+ reviews<\/p>",
+            "block_color": "#c9c0d4",
+            "text_color": "text-dark",
+            "text_alignment": "text-left"
+          }
+        },
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>I bought the original Gemini first and I love it! It'll be perfect for travel. But it<\/p>",
+            "customer_name": "Kathryn",
+            "subheading": "<p><em>Gemini Mini Convertible Backpack 2023<\/em><\/p>"
+          }
+        },
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-2": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p><strong>The Perfect Carry-All<\/strong><\/p><p>I bought the Gemini bag hoping it would be perfect for carrying my laptop, planner, wallet, keys, binders and lunch into the office. It carries all that and so much more! ...10\/10 highly recommend!!<\/p>",
+            "customer_name": "Lauren B.",
+            "subheading": "<p>Black Gemini 2023<\/p>"
+          }
+        },
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-3": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>All of my folders, teaching manuals, 2 big yeti cups and much more fits in this. It’s the perfect professional looking bag for a teacher I LOVE it! <\/p>",
+            "customer_name": "Jocelyn I.",
+            "subheading": "<p><em>Aqulia Bag 2022<\/em><\/p>"
+          }
+        },
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-4": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>I was in desperate need of a backpack for work, but that also had a professional look. The Gemini has become my savior. I also have 2 young children & it works extremely well for long trips. I used this for 3 weeks before giving my review. Wanted to make sure my review was honest: Love, Love, Love!<\/p>",
+            "customer_name": "Amy C",
+            "subheading": "<p>Gemini Bag 2023<\/p>"
+          }
+        },
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-5": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>I just adore this bag! I received it today (very fast with shipping!) and cannot wait time use it! I am absolutely in love. It’s even more gorgeous in person<\/p>",
+            "customer_name": "Kayla",
+            "subheading": "<p>Verified customer<\/p>"
+          }
+        },
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-6": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "star_rating": 5,
+            "text": "<p>Excellent customer service. I love their products!<\/p>",
+            "customer_name": "Amelia Ngoy",
+            "subheading": "<p>Verified customer<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-0",
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-1",
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-2",
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-3",
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-4",
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-5",
+        "template--15084155502707__342389e8-d2e0-46cd-b7dc-68915e0b5d05-1679943024d03676f3-6"
+      ],
+      "settings": {
+        "title": "TESTIMONIALS",
+        "text_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "testimonial_block_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "d86b9c11-271d-4c85-bd43-e42371ba9804": {
+      "type": "section-text",
+      "blocks": {
+        "template--15120161898611__d86b9c11-271d-4c85-bd43-e42371ba9804-168737490828835463-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "<h2>AS SEEN IN<\/h2>",
+            "size": 270,
+            "margin_bottom": -20
+          }
+        },
+        "template--15120161898611__d86b9c11-271d-4c85-bd43-e42371ba9804-168737490828835463-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Our Story<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        },
+        "template--15120161898611__d86b9c11-271d-4c85-bd43-e42371ba9804-168737490828835463-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "size": 100
+          }
+        },
+        "template--15120161898611__d86b9c11-271d-4c85-bd43-e42371ba9804-168737490828835463-3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_text": "Read More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15120161898611__d86b9c11-271d-4c85-bd43-e42371ba9804-168737490828835463-0",
+        "template--15120161898611__d86b9c11-271d-4c85-bd43-e42371ba9804-168737490828835463-1",
+        "template--15120161898611__d86b9c11-271d-4c85-bd43-e42371ba9804-168737490828835463-2",
+        "template--15120161898611__d86b9c11-271d-4c85-bd43-e42371ba9804-168737490828835463-3"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "6da6898b-e64c-4a77-b771-26b3a0431c3f": {
+      "type": "section-press",
+      "blocks": {
+        "7ab4bc66-b954-42d1-841f-4082ecb93d8d": {
+          "type": "press",
+          "disabled": true,
+          "settings": {
+            "text": "<h2>AS SEEN IN<\/h2>",
+            "link": "",
+            "logo_width": 120
+          }
+        },
+        "template--15084155502707__6da6898b-e64c-4a77-b771-26b3a0431c3f-16799430944b148bb7-0": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify:\/\/shop_images\/13.jpg",
+            "logo_width": 150
+          }
+        },
+        "template--15084155502707__6da6898b-e64c-4a77-b771-26b3a0431c3f-16799430944b148bb7-1": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify:\/\/shop_images\/vegworld1.jpg",
+            "logo_width": 150
+          }
+        },
+        "template--15084155502707__6da6898b-e64c-4a77-b771-26b3a0431c3f-16799430944b148bb7-2": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify:\/\/shop_images\/firsttimeparent.jpg",
+            "logo_width": 150
+          }
+        },
+        "4317d77a-b1ed-4265-9b86-5e45d915b7ad": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify:\/\/shop_images\/TexasLifestyle.jpg",
+            "logo_width": 150
+          }
+        },
+        "c5b7e969-e042-4114-be77-834602ce8e6e": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify:\/\/shop_images\/beautynews.jpg",
+            "logo_width": 150
+          }
+        },
+        "246a2c1c-596c-4c11-a297-d96d21deca7c": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify:\/\/shop_images\/PBParenting.jpg",
+            "logo_width": 150
+          }
+        },
+        "6a32250b-e2aa-496b-876b-c42bf8d530d2": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify:\/\/shop_images\/TampaBayParentingLogo.jpg",
+            "logo_width": 120
+          }
+        },
+        "9772c2b1-d9a3-4ab4-998e-1530b5b5e9c8": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify:\/\/shop_images\/voyageaustinlogo.jpg",
+            "logo_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "7ab4bc66-b954-42d1-841f-4082ecb93d8d",
+        "template--15084155502707__6da6898b-e64c-4a77-b771-26b3a0431c3f-16799430944b148bb7-0",
+        "template--15084155502707__6da6898b-e64c-4a77-b771-26b3a0431c3f-16799430944b148bb7-1",
+        "template--15084155502707__6da6898b-e64c-4a77-b771-26b3a0431c3f-16799430944b148bb7-2",
+        "4317d77a-b1ed-4265-9b86-5e45d915b7ad",
+        "c5b7e969-e042-4114-be77-834602ce8e6e",
+        "246a2c1c-596c-4c11-a297-d96d21deca7c",
+        "6a32250b-e2aa-496b-876b-c42bf8d530d2",
+        "9772c2b1-d9a3-4ab4-998e-1530b5b5e9c8"
+      ],
+      "settings": {
+        "title": "",
+        "show_quotations": false,
+        "bg_color_secondary": false,
+        "width": "wrapper--narrow",
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "8f09c8f2-34ad-40e8-9b00-ec3a04b81eab": {
+      "type": "section-text",
+      "blocks": {
+        "template--15084155502707__8f09c8f2-34ad-40e8-9b00-ec3a04b81eab-1679943194c5d28e50-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>We Carry It All <\/p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "template--15084155502707__8f09c8f2-34ad-40e8-9b00-ec3a04b81eab-1679943194c5d28e50-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>OUR STORY<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        },
+        "template--15084155502707__8f09c8f2-34ad-40e8-9b00-ec3a04b81eab-1679943194c5d28e50-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Timeless style, functional design and quality that lasts. We work hard to incorporate each of these elements into every White Elm bag that we design. From totes loaded with pockets, to clutch bags and wallets, our bags are created with the active woman in mind. Whether you're toting your laptop & planner to your 8AM meeting, taking your toddler on a play date or jet setting to Italy, White Elm bags give you enough space and organization to bring it all.<\/p>",
+            "size": 90
+          }
+        },
+        "template--15084155502707__8f09c8f2-34ad-40e8-9b00-ec3a04b81eab-1679943194c5d28e50-3": {
+          "type": "button",
+          "settings": {
+            "button_text": "Read More",
+            "button_link": "shopify:\/\/pages\/about-us-1",
+            "button_color": "btn--black",
+            "button_style": "btn--outline",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155502707__8f09c8f2-34ad-40e8-9b00-ec3a04b81eab-1679943194c5d28e50-0",
+        "template--15084155502707__8f09c8f2-34ad-40e8-9b00-ec3a04b81eab-1679943194c5d28e50-1",
+        "template--15084155502707__8f09c8f2-34ad-40e8-9b00-ec3a04b81eab-1679943194c5d28e50-2",
+        "template--15084155502707__8f09c8f2-34ad-40e8-9b00-ec3a04b81eab-1679943194c5d28e50-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
+    "eaba8f73-6d2f-43b3-9542-7d9170a05e8e": {
+      "type": "section-text",
+      "blocks": {
+        "template--15084155502707__eaba8f73-6d2f-43b3-9542-7d9170a05e8e-1681441963cd360468-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>FREQUENTLY ASKED QUESTIONS<\/p>",
+            "size": 100,
+            "heading_highlight_type": "circle",
+            "highlight_color": "#d43747"
+          }
+        },
+        "template--15084155502707__eaba8f73-6d2f-43b3-9542-7d9170a05e8e-1681441963cd360468-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have any questions? Check out our <a href=\"https:\/\/white-elm.gorgias.help\/en-US\" target=\"_blank\" title=\"https:\/\/white-elm.gorgias.help\/en-US\">Help Center <\/a>to find out more!<\/p>",
+            "size": 100
+          }
+        },
+        "template--15084155502707__eaba8f73-6d2f-43b3-9542-7d9170a05e8e-1681441963cd360468-3": {
+          "type": "button",
+          "settings": {
+            "button_text": "Read More",
+            "button_link": "https:\/\/white-elm.gorgias.help\/en-US",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155502707__eaba8f73-6d2f-43b3-9542-7d9170a05e8e-1681441963cd360468-1",
+        "template--15084155502707__eaba8f73-6d2f-43b3-9542-7d9170a05e8e-1681441963cd360468-2",
+        "template--15084155502707__eaba8f73-6d2f-43b3-9542-7d9170a05e8e-1681441963cd360468-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 26,
+        "padding_bottom": 60
+      }
+    },
+    "section-products-list": {
+      "type": "section-products-list",
+      "blocks": {
+        "section-products-list-0": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "title": "",
+            "product_description": "",
+            "button_text": "View Product",
+            "show_second_image": true,
+            "show_circle": true,
+            "hide_on_mobile": false,
+            "circle_text_color": "#000000",
+            "circle_rotate_animation": "rotate",
+            "circle_text": "New Arrival ~ New Arrival ~",
+            "circle_word_spacing": 3,
+            "circle_size": 150
+          }
+        },
+        "section-products-list-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "title": "",
+            "product_description": "",
+            "button_text": "View Product",
+            "show_second_image": true,
+            "show_circle": true,
+            "hide_on_mobile": false,
+            "circle_text_color": "#000000",
+            "circle_rotate_animation": "rotate",
+            "circle_text": "New Arrival ~ New Arrival ~",
+            "circle_word_spacing": 3,
+            "circle_size": 150
+          }
+        },
+        "section-products-list-2": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "title": "",
+            "product_description": "",
+            "button_text": "View Product",
+            "show_second_image": true,
+            "show_circle": true,
+            "hide_on_mobile": false,
+            "circle_text_color": "#000000",
+            "circle_rotate_animation": "rotate",
+            "circle_text": "New Arrival ~ New Arrival ~",
+            "circle_word_spacing": 3,
+            "circle_size": 150
+          }
+        }
+      },
+      "block_order": [
+        "section-products-list-0",
+        "section-products-list-1",
+        "section-products-list-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": 120,
+        "button_color": "btn--black",
+        "button_style": "btn--primary btn--small",
+        "button_size": "btn--small",
+        "image_aspect_ratio": 1,
+        "bg_color_secondary": false,
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section-grid": {
+      "type": "section-grid",
+      "blocks": {
+        "section-grid-0": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "Shop Trending",
+            "text": "Add more info or delete this text",
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "section-grid-1": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "Shop Clearance",
+            "text": "Add more info or delete this text",
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "92f9f915-8320-4d57-acfb-4b1d93b18fe4": {
+          "type": "collection",
+          "settings": {
+            "width": "33.33",
+            "collection": "",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "show_description": true,
+            "button_1_text": "Shop Now",
+            "text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "section-grid-0",
+        "section-grid-1",
+        "92f9f915-8320-4d57-acfb-4b1d93b18fe4"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "650",
+        "heading_size": 150,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "bd090409-ea14-4b45-a82f-b3abd024b0b0": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--15084155502707__bd090409-ea14-4b45-a82f-b3abd024b0b0-1679943263cc69fe41-0": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle-center",
+            "overlay_opacity": 10,
+            "text_color": "text-light",
+            "title": "Welcome to Palo Alto",
+            "heading_size": 100,
+            "text": "Describe in a few words your special products, collection, or brand.",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--primary btn--small",
+            "button_size": "btn--small"
+          }
+        },
+        "template--15084155502707__bd090409-ea14-4b45-a82f-b3abd024b0b0-1679943263cc69fe41-1": {
+          "type": "text",
+          "settings": {
+            "text_position": "center",
+            "top_image_width": 100,
+            "text_color": "text-dark",
+            "subheading": "Subheading",
+            "title": "Our Story",
+            "heading_size": 100,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_size": 100,
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--primary btn--small",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155502707__bd090409-ea14-4b45-a82f-b3abd024b0b0-1679943263cc69fe41-0",
+        "template--15084155502707__bd090409-ea14-4b45-a82f-b3abd024b0b0-1679943263cc69fe41-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "six-fifty-height",
+        "bg_color": "",
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "08418830-2f5c-440f-8e6e-8840b79cb08a": {
+      "type": "section-blog",
+      "settings": {
+        "blog": "news",
+        "blog_style": "standard",
+        "image_aspect_ratio": 1.1,
+        "rows": 1,
+        "columns": 3,
+        "show_tags": false,
+        "show_author": false,
+        "show_date": true,
+        "show_comments_count": false,
+        "default_color": "none",
+        "heading": "",
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "text_color": "text-dark",
+        "bg_color_secondary": false,
+        "width": "wrapper",
+        "padding_top": 40,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "section-slideshow",
+    "section-marquee",
+    "e7279cd7-fbde-41ec-8496-e4a85e7be919",
+    "15df7d44-56a1-4b78-a2c5-6a7a86809161",
+    "edfe170e-e2e1-41d0-9538-bb8e8b541e5e",
+    "9d647877-378b-4623-842d-76a474acd2c4",
+    "479cc4ce-a9a4-42d1-a733-c5a097b52947",
+    "2f74d381-e7d1-41e3-ad32-574f86c27588",
+    "1c4dbd89-4f1d-4459-a3c0-8123d76a606b",
+    "82a7be64-05d2-4ff7-938a-11e7c3021c89",
+    "168261760302ee83dc",
+    "342389e8-d2e0-46cd-b7dc-68915e0b5d05",
+    "d86b9c11-271d-4c85-bd43-e42371ba9804",
+    "6da6898b-e64c-4a77-b771-26b3a0431c3f",
+    "8f09c8f2-34ad-40e8-9b00-ec3a04b81eab",
+    "eaba8f73-6d2f-43b3-9542-7d9170a05e8e",
+    "section-products-list",
+    "section-grid",
+    "bd090409-ea14-4b45-a82f-b3abd024b0b0",
+    "08418830-2f5c-440f-8e6e-8840b79cb08a"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sections": {
+    "c1aef2bc-7b6a-4295-b848-58319fd74a5c": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--15084155371635__c1aef2bc-7b6a-4295-b848-58319fd74a5c-168342943632c663a8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/White_Elm_Outdoor_Web-16_4d87173d-c2ab-4372-91f8-a7e15d21210a.jpg",
+            "overlay_opacity": 10,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--primary",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15084155371635__c1aef2bc-7b6a-4295-b848-58319fd74a5c-168342943632c663a8-0"
+      ],
+      "settings": {
+        "slide_height": "seven-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_slide_height": "five-fifty-height-mobile",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "wipe",
+        "enable_zoom_animation": true,
+        "heading_size": 120
+      }
+    },
+    "main": {
+      "type": "blog",
+      "settings": {
+        "default_image": "shopify:\/\/shop_images\/AprilHeroImageWhiteElm.png",
+        "default_color": "default",
+        "blog_style": "standard",
+        "post_columns": 4,
+        "image_aspect_ratio": 1,
+        "show_rss_icon": false,
+        "show_date": true,
+        "show_author": true,
+        "show_tags": false,
+        "show_comments_count": false,
+        "tag_alignment": "center",
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "c1aef2bc-7b6a-4295-b848-58319fd74a5c",
+    "main"
+  ]
+}

@@ -1,0 +1,27 @@
+ <script>
+    const nvdShop = 'white-elm-boutique.myshopify.com';
+    const nvdShopCurrency = '{{ shop.money_with_currency_format | strip_html }}';
+    const nvdControls = {
+      subtotal_item: '.cart__total__money',
+      CheckoutBtns: '#cart-drawer .cart__checkout, #cart-drawer .cart__checkout *',
+      clickTriggers: '.btn--quick,.btn--quick *,.product__submit__add,.product__submit__add *,.cart__item__quantity button,.cart__item__quantity button *,.cart__item__remove,.cart__item__remove *,.cart__toggle,.cart__toggle *',
+      changeTrigger: '.cart__item__quantity-field',
+	  cursorControl: '#cart-drawer .cart__checkout, #cart-drawer .cart__checkout *,.cart__checkout,.nvd-mini',
+      showConsoleMessage:false,
+      iosDeviceListener:'touchstart',
+      trackWidget:false,
+      forceClick: false,
+      forceCheckout: true,
+      redirectCheckout: {
+        upsaleOff: false,
+        noProtection: false
+      },
+	  nvdInject:{
+        status:false, // Inject nvd-mini div
+        parent:'parent_class', // parent class for nvd-mini div
+        container:'checkout_button_div' // nvd-mini will added before this div/button
+      }
+    }
+  </script>
+ <script  src="https://navidium-static-assets.s3.amazonaws.com/navidium-widgets/js/nvd-js-asset.js" defer></script>
+ <script  src="{{ 'navidium.js' | asset_url }}" defer></script>
