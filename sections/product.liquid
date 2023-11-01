@@ -14,6 +14,9 @@
     #ProductTemplate--{{ section.id }} { background: {{ bg_color }}; }
     .shop-pay-terms { --payment-terms-background-color: {{ bg_color }} }
   {%- endif -%}
+  .no-js .loading, .no-js .popup, .no-js .drawer, .no-js .lazyload, .no-js .will-lazyload, .no-js .quantity__btn, .no-js .article-preview-image.lazyload, .no-js .featured-image-section.lazyload, .no-js .product__media__slide:not(:first-child), .no-js .product__selectors, .no-js .selector-wrapper, .no-js .collection__sort-bar, .no-js .collection__sort__label .icon, .no-js .collection__filter__title .icon, .no-js .pagination--infinite, .no-js .product__accordion__title .icon, .no-js .cart__item__quantity-plus, .no-js .cart__item__quantity-minus, .no-js .cart__widget__title:before, .no-js .cart__widget__title:after
+    display:block !important;
+  }
 {%- endstyle -%}
 
 <section id="ProductTemplate--{{ section.id }}"
@@ -24,10 +27,14 @@
   data-sticky-enabled="{{ section.settings.product_sticky_enable }}"
   data-tall-layout="{% if section.settings.image_layout == 'carousel' %}false{% else %}true{% endif %}">
   <div class="{{ section_width }}">
-    {%- render 'product' section: section, unique: section.id -%}
+    {% assign PopupData = section.blocks  %} 
+
+    {%- render 'product', section: section, unique: section.id, , sustainability_image:PopupData -%}
+   
   </div>
 </section>
 
+{% render "popup-snippet"%} 
 {%- assign current_variant = product.selected_or_first_available_variant -%}
 <script type="application/ld+json">
 {
@@ -185,6 +192,7 @@
       "label": "Padding bottom",
       "default": 60
     }
+
   ],
   "blocks": [
     {
@@ -313,6 +321,32 @@
           "unit": "px",
           "label": "Padding bottom",
           "default": 20
+        }
+      ]
+    },
+    {
+      "name": "Product popups",
+      "type": "popup",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "icon",
+          "label": "Icon"
+        },
+        {
+          "type": "text",
+          "id": "heading",
+          "label": "Name"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "Page Link if not Popup"
+        },
+        {
+          "type": "image_picker",
+          "id": "popup_image",
+          "label": "Size Guide Image"
         }
       ]
     },

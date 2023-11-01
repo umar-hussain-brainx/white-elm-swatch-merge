@@ -5,7 +5,6 @@
       "blocks": {
         "463b804b-21ee-47d0-8e0f-0799f98c1685": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/SeptemberHeroWhiteElm.png",
             "image_mobile": "shopify:\/\/shop_images\/AlmondGeminiMiniHero_c30a520d-b283-47cc-b7bb-1fdc4c92a6a5.jpg",
@@ -86,6 +85,7 @@
         },
         "693b769a-7d52-4efe-a817-97071ad196a1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Black_Friday.png",
             "image_mobile": "shopify:\/\/shop_images\/Untitled_design_-_2023-10-30T202947.673.png",
