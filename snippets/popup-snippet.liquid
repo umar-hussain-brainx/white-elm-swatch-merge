@@ -1,0 +1,159 @@
+<div class="multi_popup">
+    <div class="close_modal" onclick="hideModal(event)">
+ <svg width="25" height="25" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+ <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2929 13.2929C13.6834 12.9024 14.3166 12.9024 14.7071 13.2929L20 18.5858L25.2929 13.2929C25.6834 12.9024 26.3166 12.9024 26.7071 13.2929C27.0976 13.6834 27.0976 14.3166 26.7071 14.7071L21.4142 20L26.7071 25.2929C27.0976 25.6834 27.0976 26.3166 26.7071 26.7071C26.3166 27.0976 25.6834 27.0976 25.2929 26.7071L20 21.4142L14.7071 26.7071C14.3166 27.0976 13.6834 27.0976 13.2929 26.7071C12.9024 26.3166 12.9024 25.6834 13.2929 25.2929L18.5858 20L13.2929 14.7071C12.9024 14.3166 12.9024 13.6834 13.2929 13.2929Z" fill="#23262F"/>
+ <rect x="1" y="1" width="38" height="38" rx="19" stroke="#E6E8EC" stroke-width="2"/>
+ </svg>
+ </div>
+<div class="modal-content-inner">
+
+<p>Sleep in supreme comfort with the Pearl Pocket Spring Pillow Top Mattress. Handmade in the UK by highly skilled craftsmen, this mattress is designed to enhance your sleep. Pocket springs are coupled with an exquisitely stitched pillow top surface to ease you into uninterrupted perfect sleep.</p>
+<h6><strong>What are pocket springs?</strong></h6>
+<p>Pocket springs are small individually packed springs cushioned in their own pockets of material and filling to provide support across your body. These springs will independently react to movements on the mattress to make sure they provide support to where it is needed the most for you and your partner. If your partner tosses and turns, you won’t be disturbed because only the area of the mattress they’re lying on will adjust to their movement.</p>
+<h6><strong>Features</strong></h6>
+<p><strong>Firmness Rating<br></strong>Medium<br><strong>Spring Type<br></strong>A pocket spring system with 1500 pocket springs which provide the best support possible for you and/or your partner.<br><strong>Upholstery Design<br></strong>An elegant damask fabric cover graces this mattress for a beautiful finish.&nbsp;<br><strong>Hypoallergenic<br></strong>It’s both hypoallergenic and dust mite-resistant. Whether you suffer from allergies or not, you can enjoy a healthy night’s sleep.<br><strong>Ventilation<br></strong>The air vents boost airflow and offer incredible breathability. This prevents you from overheating as you sleep and helps to keep the mattress fresh.<br><strong>Turning Handles<br></strong>Handles are attached to the sides and make it easier for you to turn or rotate the mattress.<br><strong>Hand Stitched<br></strong>The hand stitched border provides extra support and creates a firmer mattress edge for long-lasting quality.<br><strong>Mattress Depth<br></strong>It is approximately 10 inches (25cm) deep.<br><strong>Mattress Filling<br></strong>A layer of density foam provides plush comfort to help your body fully relax.&nbsp;<br><strong>Mattress Tension<br></strong>The medium comfort is perfect for those who sleep on their back and also encourages good blood circulation so you wake up feeling refreshed.<br><strong>Safety<br></strong>You can rest easy knowing that this mattress is fully compliant with UK fire regulations</p></div>
+</div>
+<script>
+function popups_load(){
+
+const buttons = document.querySelectorAll(".see_more");
+buttons.forEach((button) => {
+ button.addEventListener("click", () => {
+   
+   const span = button.querySelector(".pop_data");
+   const data = span.innerHTML;
+   document.querySelector(".multi_popup .modal-content-inner").innerHTML =`<font>${data}</font>`;
+   console.log(data);
+   document.querySelector('.multi_popup').style.display = 'block';
+   document.querySelector('body').classList.add('js-drawer-open')
+   document.querySelector('body').style.overflow = 'hidden';
+   document.querySelector('body').style.overflow = 'hidden';
+ });
+});
+}
+popups_load()
+// close model
+function hideModal(event) {
+ 
+if (event.target.classList.contains("modal-content-inner")) {
+ return; // do nothing if clicked element is modal-content-inner
+}
+document.querySelector('body').style.overflow = 'scroll';
+ document.querySelector(".multi_popup").style.display = "none";
+ document.querySelector('body').classList.remove('js-drawer-open')
+ document.querySelector('body').style.overflow = 'scroll';
+}
+// close model
+
+
+
+{% comment %} option name append {% endcomment %}
+
+function Options_append(){
+
+  var radioInputs = document.querySelectorAll('.radio__input');
+
+  radioInputs.forEach(function (radioInput) {
+    if (radioInput.checked) {
+      var selectedOption = radioInput.value;
+      var radioFieldset = radioInput.closest('.radio__fieldset');
+      var radioLegendLabel = radioFieldset.querySelector('.radio__legend__label');
+      radioLegendLabel.querySelector('span').textContent = ': ' + selectedOption;
+    }
+  });
+
+document.querySelectorAll('.radio__input').forEach(function (radioInput) {
+  radioInput.addEventListener('change', function () {
+    // Get the selected option value
+    var selectedOption = this.value;
+    var radioFieldset = this.closest('.radio__fieldset');
+    var radioLegendLabel = radioFieldset.querySelector('.radio__legend__label');
+    radioLegendLabel.querySelector('span').textContent = ': '+ selectedOption;
+  });
+});
+}
+Options_append()
+</script>
+
+<style>
+.product-description-link-text {
+ text-decoration: underline;
+ font-size: .9rem;
+ letter-spacing: 1px;
+ font-weight: 500;
+}
+.see_more,.close_modal{
+cursor:pointer;
+}
+.see_more:hover{
+ opacity:0.5;
+}
+.multi_popup{
+ -webkit-box-shadow: 10px 10px 38px -10px rgba(0,0,0,0.39);
+ -moz-box-shadow: 10px 10px 38px -10px rgba(0,0,0,0.39);
+ box-shadow: 10px 10px 38px -10px rgba(0,0,0,0.39);
+ position: fixed;
+ left: 50%;
+ top: 50%;
+ transform: translate(-50%,-50%);
+ height: auto;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ z-index: 99999;
+ max-width: auto;
+ border-radius: 8px;
+ width: auto%;
+ max-height: auto;
+ margin:20px auto 0px;
+ display:none;
+ background:#fff;
+}
+.modal-content-inner img{
+width:auto;
+max-width: 100%;
+margin:0px auto 0px;
+}
+.modal-content-inner h2{
+margin-bottom: 20px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+}
+.product-description-links {
+ display: flex;
+ column-gap: 15px;
+ margin-top: 5px;
+}
+.product-description-link {
+display: flex;
+text-decoration: none;
+border-bottom: 0!important;
+justify-content: center;
+align-items: center;
+}
+.product-description-link img {
+max-width: 60px;
+display: block;
+margin-right: 8px;
+}
+.product-description-link.take-our-quiz-link img {
+ max-width: 40px;
+ position: relative;
+ top: -5px;
+}
+.product-description-link img {
+ max-width: 60px;
+ display: block;
+ margin-right: 8px;
+}
+.close_modal{
+float: right;
+margin-right: 5px;
+margin-top: 15px;
+position:absolute;
+right:5px;
+}
+</style>

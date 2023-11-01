@@ -135,9 +135,10 @@
     },
     "judgeme_section_review_widget_ef43": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "judgeme_review_widget_c0b0f95e": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         }
@@ -145,7 +146,6 @@
       "block_order": [
         "judgeme_review_widget_c0b0f95e"
       ],
-      "disabled": true,
       "settings": {
         "bg_color": "",
         "width": "wrapper",
@@ -209,6 +209,7 @@
     },
     "testimonials": {
       "type": "section-testimonials",
+      "disabled": true,
       "blocks": {
         "testimonial-block-text": {
           "type": "text",
@@ -295,7 +296,6 @@
         "testimonial-block-5",
         "testimonial-block-6"
       ],
-      "disabled": true,
       "settings": {
         "title": "Testimonials",
         "text_size": 100,
@@ -310,6 +310,7 @@
     },
     "tabs": {
       "type": "section-accordions",
+      "disabled": true,
       "blocks": {
         "acordion-0": {
           "type": "text",
@@ -338,7 +339,6 @@
         "acordion-1",
         "acordion-2"
       ],
-      "disabled": true,
       "settings": {
         "layout": "two-columns",
         "show_accordion_divider": false,
@@ -355,6 +355,7 @@
     },
     "grid": {
       "type": "section-grid",
+      "disabled": true,
       "blocks": {
         "grid-0": {
           "type": "image",
@@ -376,7 +377,6 @@
       "block_order": [
         "grid-0"
       ],
-      "disabled": true,
       "settings": {
         "height": "550",
         "heading_size": 150,
@@ -396,6 +396,7 @@
     },
     "icons": {
       "type": "section-icons-row",
+      "disabled": true,
       "blocks": {
         "icon-0": {
           "type": "text",
@@ -427,7 +428,6 @@
         "icon-1",
         "icon-2"
       ],
-      "disabled": true,
       "settings": {
         "alignment": "center",
         "columns": 3,
@@ -460,9 +460,10 @@
     },
     "16804566823209368c": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "1c4c6188-c1ba-4f2d-9c84-c4632d684a04": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "maxwidth": 1080
           }
@@ -471,18 +472,8 @@
       "block_order": [
         "1c4c6188-c1ba-4f2d-9c84-c4632d684a04"
       ],
-      "disabled": true,
       "settings": {
         "bg_color": "",
-        "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "cef49153-9023-43d7-8a86-8e9a28facd01": {
-      "type": "section-custom-html",
-      "settings": {
-        "custom_code": "<script>\nwindow.addEventListener('load', function() {\nvar _learnq = window._learnq || [];\nfunction addedToCart() {\n  fetch(`${window.location.origin}\/cart.js`)\n  .then(res => res.clone().json().then(data => {\n    var cart = {\n      total_price: data.total_price\/100,\n      $value: data.total_price\/100,\n      total_discount: data.total_discount,\n      original_total_price: data.original_total_price\/100,\n      items: data.items\n    }\n    if (item !== 'undefined') {\n      cart = Object.assign(cart, item)\n    }\n    if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', cart]);\n        klAjax = false;\n      }\n  }))\n};\n(function (ns, fetch) {\n  ns.fetch = function() {\n    const response = fetch.apply(this, arguments);\n    response.then(res => {\n      if (`${window.location.origin}\/cart\/add.js`\n      \t.includes(res.url)) {\n        \taddedToCart()\n      }\n    });\n    return response\n  }\n}(window, window.fetch));\nvar klAjax = true;\nvar atcButtons = document.querySelectorAll(\"form[action*='\/cart\/add'] button[type='submit']\");\nfor (var i = 0; i < atcButtons.length; i++) {\n    atcButtons[i].addEventListener(\"click\", function() {\n      if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', item]);\n        klAjax = false;\n      }\n    })\n}\n});\n<\/script>",
         "width": "wrapper",
         "padding_top": 60,
         "padding_bottom": 60
@@ -499,7 +490,6 @@
     "grid",
     "icons",
     "related",
-    "16804566823209368c",
-    "cef49153-9023-43d7-8a86-8e9a28facd01"
+    "16804566823209368c"
   ]
 }

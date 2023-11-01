@@ -101,6 +101,7 @@
 
           {%- if show_collections -%}
             {%- for collection in predictive_search.resources.collections -%}
+              {%- unless collection.title contains 'group' -%}  
               <div
                 class="predictive-search__item"
                 id="predictiveSearchOptionCollection-{{ forloop.index }}"
@@ -109,6 +110,7 @@
               >
                 <a class="predictive-search__link" href="{{ collection.url }}" tabindex="-1">{{ collection.title }}</a>
               </div>
+            {%- endunless -%}
             {%- endfor -%}
           {%- endif -%}
         </div>

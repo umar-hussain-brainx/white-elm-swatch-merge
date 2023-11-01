@@ -689,7 +689,36 @@
       </div>
     </div>
   {%- endcapture -%}
+  
+<!-- colors -->
+{% if product.metafields.custom.colors_collection %}
+<div class="">
+  <fieldset class="radio__fieldset radio__fieldset--circle">
+    <legend class="radio__legend">
+      <span class="radio__legend__label">Colors</span>
 
+    </legend>
+    {%- assign collection_object = product.metafields.custom.colors_collection -%}
+    {%- assign collec = collections[collection_object] -%}
+
+      {% for Prod in collec.products %}
+      <span class="swatch__button swatch__button--circle">
+      
+        <label for="{{ Prod.handle }}"  
+        data-url="/products/{{ Prod.handle }}?section_id={{ section.id }}"
+        data-handle="{{ Prod.handle }}" 
+        class="    {% if product.handle ==  Prod.handle  %} checked {% endif %} swatchlabel " style="background:url( {{ Prod.metafields.custom.color_swatch_icon | img_url: '100x' }} );background-size:100% 100%;">
+        <span class="visually-hidden">{{ Prod.title }}</span>
+      
+        </label>
+      </span>
+      {% endfor  %}
+  </fieldset>
+</div>
+{% endif %}
+
+        <!-- colors -->
+  
   {%- capture form_fields -%}
     {%- unless product.has_only_default_variant -%}
       {%- assign selects_counter = 0 -%}
@@ -755,9 +784,6 @@
               if enable_variant_boxes
                 echo ' selector-wrapper--boxes'
 
-                unless flexible or is_swatch_option
-                  echo ' selector-wrapper--grid'
-                endunless
               endif
 
               if is_swatch_option
@@ -765,8 +791,9 @@
               endif
             endcapture
           -%}
+        
 
-          <div class="{{ selector_wrapper_class }}"
+          <div class="{{ selector_wrapper_class }} jj"
             data-option-position="{{ option.position }}"
             {% if animations_enabled %}
               data-aos="fade-up"
@@ -778,7 +805,7 @@
               {%- assign current_value = current_variant.options[forloop.index0] -%}
               <fieldset class="radio__fieldset radio__fieldset--{{ settings.color_swatches_product_style }}">
                 <legend class="radio__legend{% if is_size_option and info_page != blank %} radio__legend--flex{% endif %}">
-                  <span class="radio__legend__label">{{ option.name | escape_once }}</span>
+                  <span class="radio__legend__label">{{ option.name | escape_once }} <span></span></span>
                   {%- if is_size_option and show_labels and info_page != blank -%}
                     {{- size_chart_button -}}
                   {%- endif -%}
@@ -814,8 +841,18 @@
                         name="options[{{ option.name | escape_once }}]"
                         value="{{ value | escape_once }}" id="{{ input_id }}"
                         {% if value == current_value %}checked{% endif %}>
-                      <label for="{{ input_id }}" class="radio__label">
-                        <span>{{ value | escape_once }}</span>
+                        {% assign selected_variant = product.selected_variant %}
+                        {% for variant in product.variants %}
+                          {% if variant.title contains value and variant.image %}
+                            {% assign selected_variant = variant %}
+                          {% endif %}
+                        {% endfor %}
+                        
+                      <label for="{{ input_id }}" class="radio__label" style="background-image:url('{{ selected_variant.image.src | img_url: 'large' }}');background-size: cover;border-radius: 50%;
+                        background-position: center;
+                        background-repeat: no-repeat;">
+                        <span style="font-size:0px">{{ value | escape_once }}</span>
+                   
                       </label>
                     </span>
                   {%- endif -%}
@@ -958,6 +995,28 @@
 
     <div data-cart-errors-container class="product__form__errors"></div>
   </div>
+
+  <div class="product-description-links">
+    
+    {% for block in sustainability_image %}
+      {% if block.type == 'popup' %}
+   <div class="product-description-link" data-src="#size-chart-popup" data-fancybox="">
+     <span><img class=" lazyloaded" src="{{ block.settings.icon | img_url:"100x" }}"></span>
+      {% if block.settings.popup_image !=blank %}
+     <div class="see_more">
+       <span  class="pop_data" style="display:none;"> <img src="{{ block.settings.popup_image | img_url:"800x" }}"/> </span>
+       <span class="product-description-link-text"> {{ block.settings.heading }}</span>
+     </div>
+   {% else %}
+     <a class="product-description-link-text" href="{{ block.settings.link}} "> {{ block.settings.heading }}</a>
+   {%endif%}
+
+ </div>
+ {% endif %}
+{% endfor %}
+
+ </div>
+
 {%- endform -%}</div>
               {%- else -%}
                 <div class="product__block product__form__wrapper{{ hide_labels_class }}"
@@ -2412,6 +2471,13 @@
   {%- assign sold_out_text = 'products.product.sold_out' | t -%}
 </div></div>
 
+
+
+
+
+
+        
+
             {%- if settings.quick_buy_text == 'cutline' -%}{%- if product.metafields.theme.cutline != blank and product.metafields.theme.cutline.type == 'single_line_text_field' -%}
 
 {%- liquid
@@ -2486,7 +2552,9 @@
 <a class="popup-quick-view__view-button popup-quick-view__view-button--desktop" href="{{ product_url }}">{{ 'products.general.view_all_details' | t }}</a>
             </div>
           </div>
+
         </div>
+
       {%- endform -%}
 
       <script type="application/json" id="ProductJson-{{ unique }}" data-product-json>{{ product | json }}</script>
@@ -2511,3 +2579,5 @@
     </div>
   {%- endunless -%}
 {%- endunless -%}
+
+
